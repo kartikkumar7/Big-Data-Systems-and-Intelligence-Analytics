@@ -1,0 +1,3530 @@
+,EVENT_ID,FATALITY_AGE,FATALITY_SEX,FATALITY_LOCATION
+0,700794,,F,Permanent Home
+1,702637,,M,Mobile/Trailer Home
+2,702637,,M,Under Tree
+3,707166,56.0,F,Outside/Open Areas
+4,707167,39.0,M,Outside/Open Areas
+5,707167,62.0,M,Outside/Open Areas
+6,707167,49.0,M,Outside/Open Areas
+7,707167,40.0,M,Outside/Open Areas
+8,707167,76.0,M,Outside/Open Areas
+9,707169,55.0,M,Outside/Open Areas
+10,707169,55.0,F,Permanent Structure
+11,707173,42.0,M,Unknown
+12,707173,41.0,M,Unknown
+13,707173,34.0,M,Outside/Open Areas
+14,707173,52.0,M,Outside/Open Areas
+15,707173,57.0,M,Outside/Open Areas
+16,707173,79.0,M,Outside/Open Areas
+17,707173,49.0,M,Outside/Open Areas
+18,707173,37.0,M,Outside/Open Areas
+19,707173,68.0,M,Permanent Home
+20,707173,36.0,F,Permanent Home
+21,707173,69.0,F,Permanent Home
+22,707173,77.0,M,Permanent Home
+23,707173,69.0,F,Permanent Home
+24,707173,73.0,F,Permanent Home
+25,707173,52.0,M,Permanent Home
+26,707173,73.0,M,Permanent Home
+27,707173,61.0,F,Permanent Home
+28,707173,70.0,M,Permanent Home
+29,707174,43.0,M,Outside/Open Areas
+30,707174,69.0,M,Permanent Home
+31,707691,1.0,F,Vehicle/Towed Trailer
+32,707691,2.0,F,Vehicle/Towed Trailer
+33,708125,71.0,M,Outside/Open Areas
+34,709859,3.0,M,Vehicle/Towed Trailer
+35,709875,14.0,M,In Water
+36,709890,34.0,M,Heavy Equipment/Construction
+37,709930,10.0,M,Outside/Open Areas
+38,709932,57.0,M,In Water
+39,711723,30.0,M,In Water
+40,698272,14.0,M,Outside/Open Areas
+41,699896,46.0,F,Vehicle/Towed Trailer
+42,703403,35.0,M,In Water
+43,683848,33.0,M,Outside/Open Areas
+44,683848,,M,Outside/Open Areas
+45,688401,,,Outside/Open Areas
+46,688957,65.0,F,Vehicle/Towed Trailer
+47,691029,31.0,M,In Water
+48,691311,72.0,F,Vehicle/Towed Trailer
+49,691312,18.0,M,Vehicle/Towed Trailer
+50,691624,10.0,F,Outside/Open Areas
+51,691629,76.0,M,Vehicle/Towed Trailer
+52,691732,2.0,F,Vehicle/Towed Trailer
+53,691732,4.0,M,Vehicle/Towed Trailer
+54,692706,,M,In Water
+55,693378,8.0,M,In Water
+56,693379,16.0,M,In Water
+57,693388,27.0,M,In Water
+58,694328,2.0,F,Outside/Open Areas
+59,694736,38.0,F,Mobile/Trailer Home
+60,694736,3.0,F,Mobile/Trailer Home
+61,696351,67.0,M,Under Tree
+62,696357,56.0,M,Boating
+63,697023,73.0,F,Vehicle/Towed Trailer
+64,697038,24.0,F,Outside/Open Areas
+65,689229,57.0,M,Outside/Open Areas
+66,690043,50.0,M,Under Tree
+67,690389,,M,Under Tree
+68,696665,43.0,F,Vehicle/Towed Trailer
+69,665863,69.0,F,Permanent Home
+70,675835,23.0,F,Outside/Open Areas
+71,675835,29.0,M,Outside/Open Areas
+72,675847,84.0,M,Vehicle/Towed Trailer
+73,664829,53.0,F,Vehicle/Towed Trailer
+74,676363,23.0,F,Other
+75,664988,16.0,F,Vehicle/Towed Trailer
+76,665799,55.0,M,Vehicle/Towed Trailer
+77,666274,45.0,M,Vehicle/Towed Trailer
+78,666584,29.0,M,Outside/Open Areas
+79,667029,60.0,M,Outside/Open Areas
+80,668386,31.0,M,In Water
+81,668386,3.0,M,In Water
+82,668659,72.0,M,Outside/Open Areas
+83,668660,35.0,M,In Water
+84,668712,,,Vehicle/Towed Trailer
+85,668749,54.0,M,Mobile/Trailer Home
+86,668998,52.0,F,In Water
+87,669731,38.0,M,Outside/Open Areas
+88,670192,43.0,M,In Water
+89,670198,47.0,F,In Water
+90,670214,22.0,F,In Water
+91,673097,,,Heavy Equipment/Construction
+92,693431,33.0,F,In Water
+93,694809,17.0,M,In Water
+94,695408,17.0,M,In Water
+95,695410,17.0,M,In Water
+96,695415,56.0,M,In Water
+97,695417,21.0,M,In Water
+98,696438,48.0,M,In Water
+99,697130,0.0,M,Outside/Open Areas
+100,697853,,M,Permanent Home
+101,697853,,F,Permanent Home
+102,700054,88.0,M,Outside/Open Areas
+103,700054,36.0,M,Outside/Open Areas
+104,700054,53.0,M,Outside/Open Areas
+105,700054,56.0,M,Permanent Home
+106,676370,5.0,M,Vehicle/Towed Trailer
+107,676370,73.0,M,Vehicle/Towed Trailer
+108,676496,58.0,M,Mobile/Trailer Home
+109,676496,47.0,M,Mobile/Trailer Home
+110,676496,20.0,M,Permanent Home
+111,676496,72.0,F,Permanent Home
+112,676952,59.0,M,Vehicle/Towed Trailer
+113,677714,48.0,F,Permanent Home
+114,677813,65.0,M,In Water
+115,678145,39.0,M,In Water
+116,678690,65.0,M,Outside/Open Areas
+117,670052,61.0,M,Outside/Open Areas
+118,678609,33.0,M,In Water
+119,677523,71.0,M,Outside/Open Areas
+120,677516,24.0,M,Vehicle/Towed Trailer
+121,681029,,,Vehicle/Towed Trailer
+122,681117,35.0,M,Outside/Open Areas
+123,681051,,,Vehicle/Towed Trailer
+124,675337,83.0,M,Outside/Open Areas
+125,677250,52.0,F,Other
+126,677250,29.0,M,Other
+127,679224,63.0,M,Other
+128,668164,74.0,F,Vehicle/Towed Trailer
+129,671484,,F,Unknown
+130,673994,42.0,M,Vehicle/Towed Trailer
+131,674302,62.0,M,Outside/Open Areas
+132,674302,43.0,M,Outside/Open Areas
+133,677250,68.0,M,Other
+134,677250,51.0,M,Other
+135,678115,29.0,M,Vehicle/Towed Trailer
+136,677272,8.0,F,Permanent Home
+137,676674,24.0,M,Vehicle/Towed Trailer
+138,678073,59.0,M,Vehicle/Towed Trailer
+139,674066,81.0,F,Outside/Open Areas
+140,674066,,M,Outside/Open Areas
+141,676840,85.0,M,Outside/Open Areas
+142,682566,21.0,M,Vehicle/Towed Trailer
+143,672916,39.0,M,Vehicle/Towed Trailer
+144,673138,85.0,F,Vehicle/Towed Trailer
+145,673144,29.0,M,Vehicle/Towed Trailer
+146,674022,19.0,F,Vehicle/Towed Trailer
+147,674068,20.0,M,Vehicle/Towed Trailer
+148,674068,23.0,F,Vehicle/Towed Trailer
+149,675656,,,Outside/Open Areas
+150,675656,,,Outside/Open Areas
+151,675656,,,Outside/Open Areas
+152,675802,83.0,F,Permanent Home
+153,675802,,M,Permanent Home
+154,675802,,M,Permanent Home
+155,677764,59.0,M,Vehicle/Towed Trailer
+156,678307,14.0,F,In Water
+157,678350,45.0,M,Vehicle/Towed Trailer
+158,678385,2.0,F,In Water
+159,681250,29.0,F,In Water
+160,681632,69.0,M,Outside/Open Areas
+161,681638,68.0,M,Outside/Open Areas
+162,681638,78.0,M,Outside/Open Areas
+163,681638,76.0,M,Outside/Open Areas
+164,681638,64.0,M,Outside/Open Areas
+165,682635,48.0,M,Outside/Open Areas
+166,682838,37.0,M,In Water
+167,683056,58.0,F,Vehicle/Towed Trailer
+168,683771,61.0,F,Outside/Open Areas
+169,685126,80.0,M,Outside/Open Areas
+170,685298,20.0,F,Outside/Open Areas
+171,685973,12.0,M,Outside/Open Areas
+172,685973,11.0,M,Outside/Open Areas
+173,687307,,,Outside/Open Areas
+174,687309,,,Outside/Open Areas
+175,687309,,,Outside/Open Areas
+176,687309,,,Outside/Open Areas
+177,687594,69.0,M,Vehicle/Towed Trailer
+178,688613,,,Vehicle/Towed Trailer
+179,688788,17.0,F,Under Tree
+180,683980,69.0,M,Vehicle/Towed Trailer
+181,690095,29.0,M,Permanent Home
+182,689564,45.0,M,Mobile/Trailer Home
+183,690880,20.0,M,In Water
+184,691476,31.0,F,Vehicle/Towed Trailer
+185,691476,37.0,M,Vehicle/Towed Trailer
+186,691476,17.0,F,Vehicle/Towed Trailer
+187,691694,21.0,M,Vehicle/Towed Trailer
+188,691698,66.0,F,Permanent Home
+189,691706,18.0,M,Permanent Home
+190,693652,41.0,F,Outside/Open Areas
+191,694639,47.0,M,Outside/Open Areas
+192,695564,53.0,M,Vehicle/Towed Trailer
+193,695565,16.0,M,Vehicle/Towed Trailer
+194,697927,51.0,M,In Water
+195,698304,70.0,M,Vehicle/Towed Trailer
+196,698410,60.0,M,Vehicle/Towed Trailer
+197,698416,89.0,M,Vehicle/Towed Trailer
+198,698578,24.0,M,Outside/Open Areas
+199,698678,41.0,M,Under Tree
+200,699162,,M,Boating
+201,699162,,M,Boating
+202,699162,,M,Boating
+203,702258,59.0,M,Vehicle/Towed Trailer
+204,704324,54.0,M,Permanent Home
+205,704618,25.0,M,In Water
+206,704627,19.0,M,In Water
+207,704633,18.0,M,In Water
+208,682199,35.0,M,In Water
+209,682200,45.0,F,Vehicle/Towed Trailer
+210,690133,69.0,F,Vehicle/Towed Trailer
+211,705819,41.0,M,Boating
+212,700054,89.0,F,Permanent Home
+213,700054,83.0,F,Permanent Home
+214,700617,88.0,M,Outside/Open Areas
+215,700620,88.0,M,Outside/Open Areas
+216,700786,74.0,M,Outside/Open Areas
+217,723471,33.0,M,Boating
+218,723471,45.0,M,Boating
+219,723471,40.0,M,Boating
+220,723471,33.0,M,Boating
+221,723471,25.0,M,Boating
+222,723471,31.0,M,Boating
+223,723471,65.0,M,In Water
+224,723471,42.0,M,In Water
+225,723471,54.0,M,In Water
+226,723471,25.0,M,In Water
+227,723471,62.0,M,In Water
+228,723471,24.0,M,In Water
+229,723471,73.0,F,In Water
+230,723471,67.0,M,In Water
+231,723471,49.0,M,In Water
+232,723471,66.0,M,In Water
+233,723471,29.0,F,In Water
+234,723471,58.0,M,In Water
+235,723471,89.0,F,Permanent Home
+236,723471,77.0,F,Permanent Home
+237,723471,64.0,M,Permanent Structure
+238,723471,48.0,F,Permanent Structure
+239,723471,71.0,F,Permanent Structure
+240,723471,71.0,M,Permanent Structure
+241,723471,76.0,F,Vehicle/Towed Trailer
+242,723471,45.0,M,Vehicle/Towed Trailer
+243,723471,60.0,M,Vehicle/Towed Trailer
+244,723471,81.0,F,Vehicle/Towed Trailer
+245,723471,84.0,M,Vehicle/Towed Trailer
+246,723471,8.0,M,Vehicle/Towed Trailer
+247,723471,14.0,M,Vehicle/Towed Trailer
+248,723471,6.0,F,Vehicle/Towed Trailer
+249,723471,16.0,F,Vehicle/Towed Trailer
+250,723471,32.0,F,Vehicle/Towed Trailer
+251,723471,43.0,M,Vehicle/Towed Trailer
+252,723471,82.0,M,Vehicle/Towed Trailer
+253,723471,38.0,F,Vehicle/Towed Trailer
+254,723471,58.0,M,In Water
+255,669719,22.0,M,Vehicle/Towed Trailer
+256,669799,78.0,M,In Water
+257,692689,65.0,F,Mobile/Trailer Home
+258,698402,22.0,M,Vehicle/Towed Trailer
+259,702632,53.0,M,Vehicle/Towed Trailer
+260,712192,35.0,M,In Water
+261,715397,42.0,F,In Water
+262,727471,,M,Permanent Home
+263,727471,,M,Permanent Home
+264,730071,34.0,M,In Water
+265,707197,67.0,M,In Water
+266,707197,46.0,M,In Water
+267,720852,63.0,M,In Water
+268,720852,65.0,M,Vehicle/Towed Trailer
+269,720852,58.0,F,Vehicle/Towed Trailer
+270,720861,33.0,M,Boating
+271,720861,45.0,M,Boating
+272,720861,40.0,M,Boating
+273,720861,33.0,M,Boating
+274,720861,25.0,M,Boating
+275,720861,31.0,M,Boating
+276,720861,65.0,M,In Water
+277,720861,42.0,M,In Water
+278,720861,54.0,M,In Water
+279,720861,25.0,M,In Water
+280,720861,62.0,M,In Water
+281,720861,24.0,M,In Water
+282,720861,73.0,F,In Water
+283,720861,58.0,M,In Water
+284,720861,67.0,M,In Water
+285,720861,49.0,M,In Water
+286,720861,66.0,M,In Water
+287,720861,29.0,F,In Water
+288,720861,58.0,M,In Water
+289,720861,89.0,F,Permanent Home
+290,720861,77.0,F,Permanent Home
+291,720861,71.0,F,Permanent Home
+292,720861,64.0,M,Permanent Structure
+293,720861,48.0,F,Permanent Structure
+294,720861,71.0,M,Permanent Structure
+295,720861,76.0,F,Vehicle/Towed Trailer
+296,720861,45.0,M,Vehicle/Towed Trailer
+297,720861,60.0,M,Vehicle/Towed Trailer
+298,720861,81.0,F,Vehicle/Towed Trailer
+299,720861,84.0,M,Vehicle/Towed Trailer
+300,720861,8.0,M,Vehicle/Towed Trailer
+301,720861,14.0,M,Vehicle/Towed Trailer
+302,720861,6.0,F,Vehicle/Towed Trailer
+303,720861,16.0,F,Vehicle/Towed Trailer
+304,720861,32.0,F,Vehicle/Towed Trailer
+305,720861,43.0,M,Vehicle/Towed Trailer
+306,720861,82.0,M,Vehicle/Towed Trailer
+307,720861,38.0,F,Vehicle/Towed Trailer
+308,720871,54.0,M,In Water
+309,720871,59.0,M,In Water
+310,720871,83.0,M,In Water
+311,720871,69.0,F,Permanent Home
+312,720871,64.0,M,Permanent Home
+313,720871,80.0,F,Permanent Home
+314,727805,37.0,M,Outside/Open Areas
+315,728349,61.0,M,In Water
+316,728349,,,Outside/Open Areas
+317,728349,60.0,F,Permanent Structure
+318,728349,33.0,M,Vehicle/Towed Trailer
+319,728390,69.0,M,In Water
+320,728390,1.0,F,Vehicle/Towed Trailer
+321,728390,64.0,M,Vehicle/Towed Trailer
+322,728395,83.0,F,Vehicle/Towed Trailer
+323,715873,54.0,M,In Water
+324,716063,34.0,M,Boating
+325,716134,6.0,M,In Water
+326,716427,24.0,M,In Water
+327,717447,43.0,M,Outside/Open Areas
+328,717500,23.0,M,Outside/Open Areas
+329,724378,1.0,F,Mobile/Trailer Home
+330,724378,32.0,M,Mobile/Trailer Home
+331,726780,60.0,M,Outside/Open Areas
+332,683065,43.0,F,Under Tree
+333,683249,57.0,M,Other
+334,683249,51.0,M,Permanent Home
+335,683254,39.0,M,Vehicle/Towed Trailer
+336,683254,49.0,F,Vehicle/Towed Trailer
+337,684570,37.0,F,Outside/Open Areas
+338,689460,1.0,M,Vehicle/Towed Trailer
+339,691827,55.0,F,Permanent Home
+340,704428,28.0,M,Under Tree
+341,723747,31.0,M,Under Tree
+342,743864,49.0,M,Outside/Open Areas
+343,674614,31.0,M,Outside/Open Areas
+344,674614,76.0,M,Outside/Open Areas
+345,717501,76.0,M,Permanent Home
+346,717739,19.0,M,In Water
+347,718756,19.0,M,In Water
+348,670350,53.0,F,Mobile/Trailer Home
+349,670350,27.0,F,Mobile/Trailer Home
+350,670350,51.0,F,Mobile/Trailer Home
+351,670350,53.0,F,Mobile/Trailer Home
+352,670353,73.0,M,Mobile/Trailer Home
+353,671787,70.0,M,In Water
+354,673010,59.0,M,Mobile/Trailer Home
+355,673010,59.0,F,Mobile/Trailer Home
+356,673010,39.0,M,Mobile/Trailer Home
+357,673010,77.0,F,Permanent Home
+358,673010,82.0,M,Permanent Home
+359,673054,,M,Mobile/Trailer Home
+360,673054,,F,Mobile/Trailer Home
+361,673083,18.0,F,Mobile/Trailer Home
+362,673083,33.0,F,Mobile/Trailer Home
+363,673083,62.0,F,Mobile/Trailer Home
+364,673083,38.0,F,Mobile/Trailer Home
+365,673083,41.0,F,Mobile/Trailer Home
+366,673083,41.0,F,Mobile/Trailer Home
+367,673083,36.0,M,Mobile/Trailer Home
+368,673095,82.0,M,Permanent Home
+369,673095,78.0,F,Permanent Home
+370,696080,66.0,F,Permanent Home
+371,707684,24.0,M,Under Tree
+372,747659,64.0,M,In Water
+373,723646,83.0,F,Vehicle/Towed Trailer
+374,723647,83.0,F,Vehicle/Towed Trailer
+375,723649,83.0,F,Vehicle/Towed Trailer
+376,723650,83.0,F,Vehicle/Towed Trailer
+377,723651,83.0,F,Vehicle/Towed Trailer
+378,723652,83.0,F,Vehicle/Towed Trailer
+379,723653,83.0,F,Vehicle/Towed Trailer
+380,723654,83.0,F,Vehicle/Towed Trailer
+381,723655,83.0,F,Vehicle/Towed Trailer
+382,723656,83.0,F,Vehicle/Towed Trailer
+383,723657,83.0,F,Vehicle/Towed Trailer
+384,723658,83.0,F,Vehicle/Towed Trailer
+385,723659,83.0,F,Vehicle/Towed Trailer
+386,670672,29.0,M,Outside/Open Areas
+387,725484,47.0,F,Vehicle/Towed Trailer
+388,725484,20.0,F,Vehicle/Towed Trailer
+389,725484,18.0,F,Vehicle/Towed Trailer
+390,725484,14.0,F,Vehicle/Towed Trailer
+391,731287,27.0,M,Vehicle/Towed Trailer
+392,731305,68.0,M,Vehicle/Towed Trailer
+393,731233,52.0,M,Vehicle/Towed Trailer
+394,666732,35.0,M,Vehicle/Towed Trailer
+395,666733,22.0,M,Vehicle/Towed Trailer
+396,666763,51.0,M,Vehicle/Towed Trailer
+397,707674,71.0,M,In Water
+398,707702,54.0,M,Vehicle/Towed Trailer
+399,707833,,M,Other
+400,707907,,M,Outside/Open Areas
+401,721443,55.0,M,Permanent Home
+402,721447,67.0,F,Vehicle/Towed Trailer
+403,721735,74.0,M,Outside/Open Areas
+404,721739,55.0,M,Outside/Open Areas
+405,721739,56.0,M,Outside/Open Areas
+406,721739,23.0,M,Outside/Open Areas
+407,721739,62.0,M,Permanent Home
+408,721815,89.0,M,Unknown
+409,721819,63.0,M,Outside/Open Areas
+410,721819,7.0,F,Permanent Home
+411,721819,77.0,M,Permanent Structure
+412,721998,55.0,M,Outside/Open Areas
+413,721998,60.0,M,Outside/Open Areas
+414,721998,61.0,M,Outside/Open Areas
+415,722000,53.0,M,Outside/Open Areas
+416,722000,38.0,M,Outside/Open Areas
+417,722003,69.0,M,Vehicle/Towed Trailer
+418,724677,1.0,M,Vehicle/Towed Trailer
+419,719102,57.0,F,In Water
+420,720244,65.0,M,In Water
+421,721353,53.0,M,In Water
+422,721353,37.0,F,In Water
+423,721660,14.0,M,In Water
+424,721830,62.0,F,Outside/Open Areas
+425,724178,,,Unknown
+426,724178,,,Unknown
+427,724178,,,Unknown
+428,724178,,,Unknown
+429,724178,,,Unknown
+430,724178,,,Unknown
+431,724178,,,Unknown
+432,724178,,,Unknown
+433,724207,52.0,F,In Water
+434,724208,60.0,M,In Water
+435,724208,53.0,M,In Water
+436,725194,44.0,M,In Water
+437,725309,53.0,M,In Water
+438,722229,32.0,F,Vehicle/Towed Trailer
+439,724136,22.0,M,In Water
+440,724136,47.0,M,In Water
+441,725589,77.0,F,Unknown
+442,725589,76.0,M,Unknown
+443,725589,53.0,F,Unknown
+444,709697,46.0,M,Outside/Open Areas
+445,714272,77.0,M,In Water
+446,725589,78.0,M,Unknown
+447,682675,49.0,M,In Water
+448,718556,28.0,F,Vehicle/Towed Trailer
+449,727424,18.0,M,In Water
+450,727496,59.0,M,In Water
+451,724595,21.0,M,Outside/Open Areas
+452,724626,46.0,M,Permanent Structure
+453,725978,52.0,M,Outside/Open Areas
+454,726411,48.0,M,Outside/Open Areas
+455,726665,17.0,M,Outside/Open Areas
+456,727405,20.0,M,Vehicle/Towed Trailer
+457,727619,84.0,F,Outside/Open Areas
+458,727619,60.0,M,Outside/Open Areas
+459,727619,57.0,M,Outside/Open Areas
+460,727635,51.0,M,Outside/Open Areas
+461,727635,34.0,M,Outside/Open Areas
+462,728427,61.0,M,Vehicle/Towed Trailer
+463,729836,32.0,M,Outside/Open Areas
+464,729837,32.0,M,Outside/Open Areas
+465,729838,32.0,M,Outside/Open Areas
+466,729839,32.0,M,Outside/Open Areas
+467,729840,32.0,M,Outside/Open Areas
+468,730852,8.0,M,Under Tree
+469,730998,,M,In Water
+470,731019,17.0,F,Vehicle/Towed Trailer
+471,731019,18.0,F,Vehicle/Towed Trailer
+472,731020,52.0,M,Vehicle/Towed Trailer
+473,731223,86.0,F,Outside/Open Areas
+474,731224,89.0,F,Outside/Open Areas
+475,731493,70.0,M,Under Tree
+476,732047,83.0,F,Outside/Open Areas
+477,732507,78.0,M,Vehicle/Towed Trailer
+478,730484,50.0,M,In Water
+479,730576,82.0,M,Outside/Open Areas
+480,681794,63.0,F,Vehicle/Towed Trailer
+481,681925,,,Vehicle/Towed Trailer
+482,690887,65.0,M,Mobile/Trailer Home
+483,709960,72.0,M,Vehicle/Towed Trailer
+484,713481,58.0,M,Mobile/Trailer Home
+485,713481,42.0,M,Outside/Open Areas
+486,713481,40.0,F,Outside/Open Areas
+487,713481,68.0,M,Permanent Home
+488,713481,79.0,M,Permanent Home
+489,713481,86.0,M,Permanent Home
+490,713481,67.0,F,Permanent Home
+491,713481,36.0,M,Permanent Structure
+492,713483,75.0,F,Unknown
+493,713483,19.0,M,Unknown
+494,713483,51.0,F,Outside/Open Areas
+495,713483,51.0,M,Outside/Open Areas
+496,713483,64.0,M,Outside/Open Areas
+497,713483,23.0,M,Outside/Open Areas
+498,713483,45.0,M,Outside/Open Areas
+499,713483,36.0,M,Outside/Open Areas
+500,713483,41.0,M,Outside/Open Areas
+501,713483,63.0,M,Outside/Open Areas
+502,713483,57.0,M,Outside/Open Areas
+503,713483,45.0,M,Outside/Open Areas
+504,713483,75.0,M,Permanent Home
+505,713483,81.0,F,Permanent Home
+506,713483,74.0,M,Permanent Home
+507,713483,74.0,M,Permanent Home
+508,713483,77.0,F,Permanent Home
+509,713483,0.0,M,Permanent Home
+510,713483,42.0,F,Permanent Home
+511,713483,59.0,M,Vehicle/Towed Trailer
+512,713485,72.0,M,Outside/Open Areas
+513,713485,59.0,M,Outside/Open Areas
+514,713487,80.0,M,Unknown
+515,713487,53.0,M,Outside/Open Areas
+516,713487,45.0,M,Outside/Open Areas
+517,713487,43.0,M,Outside/Open Areas
+518,713487,65.0,M,Outside/Open Areas
+519,713487,53.0,M,Outside/Open Areas
+520,713487,74.0,M,Outside/Open Areas
+521,713487,78.0,M,Outside/Open Areas
+522,713487,64.0,M,Outside/Open Areas
+523,713487,72.0,F,Permanent Home
+524,713487,80.0,F,Permanent Home
+525,713487,65.0,F,Permanent Home
+526,713487,50.0,M,Permanent Home
+527,713487,66.0,F,Permanent Home
+528,713489,41.0,M,Unknown
+529,713489,53.0,M,Outside/Open Areas
+530,713489,60.0,F,Outside/Open Areas
+531,713489,59.0,M,Outside/Open Areas
+532,713489,54.0,M,Permanent Home
+533,713489,57.0,F,Permanent Home
+534,713489,74.0,M,Permanent Home
+535,713489,78.0,F,Permanent Home
+536,713491,35.0,M,Outside/Open Areas
+537,713491,55.0,M,Outside/Open Areas
+538,713491,55.0,M,Outside/Open Areas
+539,713491,68.0,M,Permanent Home
+540,713491,59.0,M,Permanent Structure
+541,718384,48.0,M,In Water
+542,714276,79.0,F,In Water
+543,715218,,M,Unknown
+544,715242,,M,Golfing
+545,715742,,M,In Water
+546,717956,,,Unknown
+547,717956,,,Unknown
+548,717956,,,Unknown
+549,717958,90.0,M,Unknown
+550,717958,95.0,F,Unknown
+551,717958,79.0,M,Unknown
+552,718420,5.0,M,Telephone
+553,719433,52.0,M,Unknown
+554,719437,34.0,F,Permanent Home
+555,719499,51.0,M,Outside/Open Areas
+556,719499,52.0,M,Outside/Open Areas
+557,719499,34.0,F,Permanent Home
+558,719499,13.0,M,Permanent Home
+559,719499,16.0,F,Permanent Home
+560,719499,50.0,F,Vehicle/Towed Trailer
+561,719500,64.0,M,Unknown
+562,719501,85.0,M,Unknown
+563,719629,,M,Permanent Home
+564,719629,,F,Permanent Home
+565,719634,,,Vehicle/Towed Trailer
+566,719664,,M,Permanent Home
+567,720204,32.0,M,In Water
+568,721078,62.0,M,Outside/Open Areas
+569,721078,38.0,M,Outside/Open Areas
+570,721078,78.0,F,Permanent Home
+571,721078,46.0,M,Permanent Structure
+572,721079,26.0,F,Outside/Open Areas
+573,721079,62.0,F,Permanent Home
+574,721079,74.0,M,Permanent Home
+575,721324,49.0,M,In Water
+576,722189,47.0,M,In Water
+577,722189,57.0,F,In Water
+578,722549,87.0,M,Vehicle/Towed Trailer
+579,722772,17.0,M,In Water
+580,722895,35.0,M,Vehicle/Towed Trailer
+581,722899,65.0,M,Outside/Open Areas
+582,722903,46.0,M,In Water
+583,722906,84.0,M,Outside/Open Areas
+584,722906,74.0,M,Permanent Home
+585,722906,69.0,F,Permanent Home
+586,722906,29.0,M,Permanent Home
+587,722909,69.0,M,Permanent Home
+588,722909,65.0,M,Permanent Home
+589,722909,26.0,M,Permanent Home
+590,722909,59.0,M,Permanent Home
+591,722909,69.0,M,Permanent Home
+592,723026,,,Unknown
+593,723026,,,Unknown
+594,723026,,,Unknown
+595,723026,,,Unknown
+596,723026,,,Unknown
+597,723026,,,Unknown
+598,723026,,,Unknown
+599,723026,,,Unknown
+600,723026,,,Unknown
+601,723026,,,Unknown
+602,723026,,,Unknown
+603,723026,,,Unknown
+604,723026,,,Unknown
+605,723026,,,Unknown
+606,723026,,,Unknown
+607,723026,,,Unknown
+608,723026,,,Unknown
+609,723026,,,Unknown
+610,723026,,,Unknown
+611,723026,,,Unknown
+612,723026,86.0,M,Permanent Home
+613,723055,65.0,M,Vehicle/Towed Trailer
+614,723255,,,Unknown
+615,723288,,,Unknown
+616,723288,,,Unknown
+617,723288,,,Unknown
+618,723288,,,Unknown
+619,723288,,,Unknown
+620,723450,59.0,M,Unknown
+621,723450,,,In Water
+622,723450,,,Outside/Open Areas
+623,723450,,M,Permanent Home
+624,723457,61.0,F,Permanent Home
+625,723457,68.0,M,School
+626,723457,60.0,M,Vehicle/Towed Trailer
+627,699717,,,Vehicle/Towed Trailer
+628,699717,,,Vehicle/Towed Trailer
+629,700163,46.0,M,Permanent Structure
+630,701447,56.0,M,Permanent Home
+631,701747,12.0,F,In Water
+632,702273,,M,Unknown
+633,702335,59.0,M,In Water
+634,702600,71.0,M,Outside/Open Areas
+635,702905,57.0,M,Outside/Open Areas
+636,703127,16.0,M,Under Tree
+637,703248,93.0,F,Permanent Home
+638,703303,2.0,F,Vehicle/Towed Trailer
+639,703697,35.0,M,Outside/Open Areas
+640,706970,82.0,M,Mobile/Trailer Home
+641,713099,72.0,M,Permanent Home
+642,713603,,M,In Water
+643,713947,39.0,M,Under Tree
+644,713949,,,Vehicle/Towed Trailer
+645,713949,,,Vehicle/Towed Trailer
+646,713949,,,Vehicle/Towed Trailer
+647,713949,,,Vehicle/Towed Trailer
+648,713949,,,Vehicle/Towed Trailer
+649,713949,,,Vehicle/Towed Trailer
+650,713949,,,Vehicle/Towed Trailer
+651,713949,,,Vehicle/Towed Trailer
+652,713949,,,Vehicle/Towed Trailer
+653,713949,,,Vehicle/Towed Trailer
+654,714415,64.0,M,Outside/Open Areas
+655,714819,59.0,F,In Water
+656,714820,34.0,F,In Water
+657,715399,35.0,M,Camping
+658,723458,,M,Other
+659,723459,66.0,M,Permanent Home
+660,698616,12.0,F,In Water
+661,698616,13.0,F,In Water
+662,698617,15.0,F,In Water
+663,698617,16.0,M,In Water
+664,718519,39.0,M,Mobile/Trailer Home
+665,718519,67.0,F,Permanent Home
+666,720927,23.0,M,Outside/Open Areas
+667,715746,57.0,F,In Water
+668,715746,27.0,M,In Water
+669,715746,27.0,F,In Water
+670,715746,24.0,F,In Water
+671,715746,19.0,M,In Water
+672,715746,13.0,M,In Water
+673,715746,7.0,M,In Water
+674,715746,5.0,F,In Water
+675,715746,3.0,F,In Water
+676,715746,2.0,F,In Water
+677,716677,30.0,F,Permanent Home
+678,716677,61.0,F,Permanent Home
+679,716677,64.0,F,Permanent Home
+680,734881,,M,Outside/Open Areas
+681,734882,28.0,M,Unknown
+682,734883,,M,Outside/Open Areas
+683,672747,5.0,M,In Water
+684,672747,26.0,M,In Water
+685,673579,36.0,M,Outside/Open Areas
+686,680811,52.0,F,Vehicle/Towed Trailer
+687,692096,36.0,M,Permanent Home
+688,722620,,M,Unknown
+689,722622,53.0,M,In Water
+690,722622,47.0,M,In Water
+691,722629,,,Unknown
+692,722629,,,Unknown
+693,722629,,,Unknown
+694,722629,,,Unknown
+695,731651,63.0,M,In Water
+696,749456,,,Unknown
+697,749456,,,Unknown
+698,749456,,,Unknown
+699,749456,,,Unknown
+700,749456,,,Unknown
+701,749456,,,Unknown
+702,749456,,,Unknown
+703,749456,,,Unknown
+704,749456,,,Unknown
+705,749457,,M,Unknown
+706,749737,,F,Permanent Home
+707,749737,,F,Permanent Home
+708,749737,,F,Permanent Home
+709,706359,18.0,M,In Water
+710,706581,74.0,M,In Water
+711,707242,63.0,M,In Water
+712,708122,38.0,M,In Water
+713,708122,10.0,F,In Water
+714,708190,11.0,F,In Water
+715,710616,61.0,M,Outside/Open Areas
+716,710655,73.0,M,Vehicle/Towed Trailer
+717,711661,31.0,M,In Water
+718,713023,73.0,M,In Water
+719,713498,47.0,M,In Water
+720,714873,52.0,M,Vehicle/Towed Trailer
+721,714877,57.0,M,Outside/Open Areas
+722,716579,14.0,F,Vehicle/Towed Trailer
+723,717833,48.0,F,Outside/Open Areas
+724,717833,37.0,M,Outside/Open Areas
+725,717833,58.0,M,Permanent Home
+726,717833,58.0,F,Permanent Home
+727,717833,75.0,M,Permanent Home
+728,717833,59.0,F,Permanent Home
+729,717835,81.0,F,Outside/Open Areas
+730,717835,37.0,M,Outside/Open Areas
+731,717835,54.0,M,Outside/Open Areas
+732,717835,67.0,M,Outside/Open Areas
+733,717835,80.0,M,Outside/Open Areas
+734,717835,92.0,M,Permanent Home
+735,717837,66.0,F,Outside/Open Areas
+736,717837,49.0,M,Outside/Open Areas
+737,717837,60.0,M,Permanent Home
+738,717837,71.0,M,Permanent Home
+739,717839,80.0,F,Church
+740,717839,74.0,F,Outside/Open Areas
+741,717839,55.0,M,Outside/Open Areas
+742,717839,35.0,M,Outside/Open Areas
+743,717839,65.0,M,Outside/Open Areas
+744,717840,59.0,F,Permanent Home
+745,717843,58.0,F,Outside/Open Areas
+746,717843,60.0,M,Outside/Open Areas
+747,718677,56.0,M,Vehicle/Towed Trailer
+748,718916,61.0,M,In Water
+749,719139,68.0,F,Vehicle/Towed Trailer
+750,719149,45.0,M,Vehicle/Towed Trailer
+751,719342,41.0,F,In Water
+752,719342,69.0,M,In Water
+753,719342,,F,In Water
+754,719342,88.0,F,In Water
+755,719342,,F,In Water
+756,719442,19.0,M,In Water
+757,719442,12.0,M,In Water
+758,719445,24.0,M,Outside/Open Areas
+759,719489,75.0,M,In Water
+760,719489,54.0,M,In Water
+761,719489,55.0,M,In Water
+762,719489,77.0,M,In Water
+763,719489,73.0,F,In Water
+764,719489,82.0,F,In Water
+765,719489,19.0,M,Permanent Home
+766,719489,,M,Permanent Home
+767,719489,87.0,M,Permanent Home
+768,719489,1.0,,Permanent Home
+769,719494,67.0,M,In Water
+770,719497,68.0,M,In Water
+771,719497,61.0,F,Vehicle/Towed Trailer
+772,719740,43.0,F,Vehicle/Towed Trailer
+773,719740,51.0,M,Vehicle/Towed Trailer
+774,719758,18.0,M,In Water
+775,719763,5.0,M,In Water
+776,753636,,M,Outside/Open Areas
+777,754296,7.0,M,Under Tree
+778,854804,,,Unknown
+779,862273,,,Unknown
+780,862273,,,Unknown
+781,862274,,,Unknown
+782,862277,,,Unknown
+783,863311,,,Unknown
+784,862273,,,Unknown
+785,863310,,,Unknown
+786,791228,54.0,M,Permanent Structure
+787,791228,37.0,M,Permanent Structure
+788,730218,55.0,M,Vehicle/Towed Trailer
+789,730219,63.0,F,Vehicle/Towed Trailer
+790,730295,57.0,M,Outside/Open Areas
+791,730812,42.0,M,Vehicle/Towed Trailer
+792,731146,31.0,F,Vehicle/Towed Trailer
+793,731151,15.0,F,Vehicle/Towed Trailer
+794,731151,19.0,M,Vehicle/Towed Trailer
+795,732556,73.0,M,Vehicle/Towed Trailer
+796,733561,21.0,M,Camping
+797,734019,74.0,M,Outside/Open Areas
+798,737279,77.0,M,Vehicle/Towed Trailer
+799,737304,18.0,M,Vehicle/Towed Trailer
+800,739742,30.0,M,Outside/Open Areas
+801,740978,22.0,M,Vehicle/Towed Trailer
+802,740979,17.0,F,Vehicle/Towed Trailer
+803,740979,13.0,F,Vehicle/Towed Trailer
+804,741419,22.0,M,Outside/Open Areas
+805,742240,47.0,M,Vehicle/Towed Trailer
+806,742595,53.0,M,Vehicle/Towed Trailer
+807,742615,74.0,M,Other
+808,743137,,M,Vehicle/Towed Trailer
+809,743238,50.0,,Vehicle/Towed Trailer
+810,743249,70.0,F,Other
+811,743249,61.0,F,Other
+812,855632,18.0,M,Outside/Open Areas
+813,740887,45.0,M,Vehicle/Towed Trailer
+814,743228,48.0,M,Vehicle/Towed Trailer
+815,735022,79.0,F,Permanent Home
+816,736714,69.0,M,Vehicle/Towed Trailer
+817,746515,6.0,M,Mobile/Trailer Home
+818,746598,44.0,M,Vehicle/Towed Trailer
+819,782878,15.0,M,In Water
+820,789445,20.0,M,Vehicle/Towed Trailer
+821,794496,17.0,M,Vehicle/Towed Trailer
+822,794496,26.0,M,Vehicle/Towed Trailer
+823,794496,56.0,M,Vehicle/Towed Trailer
+824,794496,57.0,M,Vehicle/Towed Trailer
+825,795857,73.0,M,Permanent Home
+826,795857,,,Vehicle/Towed Trailer
+827,795857,,,Vehicle/Towed Trailer
+828,795858,73.0,M,Permanent Home
+829,795858,,,Vehicle/Towed Trailer
+830,795858,,,Vehicle/Towed Trailer
+831,795859,73.0,M,Permanent Home
+832,795859,,,Vehicle/Towed Trailer
+833,795859,,,Vehicle/Towed Trailer
+834,795860,73.0,M,Permanent Home
+835,795860,,,Vehicle/Towed Trailer
+836,795860,,,Vehicle/Towed Trailer
+837,795861,73.0,M,Permanent Home
+838,795861,,,Vehicle/Towed Trailer
+839,795861,,,Vehicle/Towed Trailer
+840,754786,,,Unknown
+841,755558,,,Unknown
+842,756196,62.0,M,In Water
+843,756201,72.0,M,Outside/Open Areas
+844,756300,36.0,F,Vehicle/Towed Trailer
+845,756300,77.0,M,Vehicle/Towed Trailer
+846,758037,3.0,M,Vehicle/Towed Trailer
+847,759719,32.0,M,In Water
+848,760551,61.0,M,In Water
+849,761147,24.0,M,In Water
+850,761300,60.0,M,Outside/Open Areas
+851,762222,47.0,F,In Water
+852,762346,65.0,M,In Water
+853,763448,56.0,M,Under Tree
+854,764060,64.0,M,Outside/Open Areas
+855,766986,0.0,M,Mobile/Trailer Home
+856,767811,36.0,M,Outside/Open Areas
+857,767811,33.0,M,Under Tree
+858,768073,36.0,M,Outside/Open Areas
+859,768073,33.0,M,Under Tree
+860,856773,30.0,F,Outside/Open Areas
+861,856774,33.0,M,Outside/Open Areas
+862,773530,62.0,M,Unknown
+863,773530,53.0,M,Outside/Open Areas
+864,773530,78.0,M,Outside/Open Areas
+865,773530,61.0,F,Outside/Open Areas
+866,773530,52.0,M,Outside/Open Areas
+867,773530,78.0,F,Permanent Home
+868,773530,49.0,F,Permanent Home
+869,773530,65.0,M,Vehicle/Towed Trailer
+870,773531,78.0,M,Outside/Open Areas
+871,773532,47.0,M,Outside/Open Areas
+872,773532,28.0,M,Outside/Open Areas
+873,773532,47.0,M,Outside/Open Areas
+874,773532,84.0,F,Outside/Open Areas
+875,773532,60.0,M,Outside/Open Areas
+876,773532,71.0,M,Outside/Open Areas
+877,773532,46.0,M,Outside/Open Areas
+878,773532,78.0,F,Permanent Home
+879,773532,56.0,M,Permanent Home
+880,773533,57.0,M,Outside/Open Areas
+881,773534,70.0,M,Outside/Open Areas
+882,773534,48.0,M,Outside/Open Areas
+883,773534,62.0,M,Outside/Open Areas
+884,773534,61.0,M,Outside/Open Areas
+885,773534,70.0,M,Permanent Home
+886,773534,28.0,M,Vehicle/Towed Trailer
+887,773534,29.0,M,Vehicle/Towed Trailer
+888,773535,47.0,M,Outside/Open Areas
+889,773535,59.0,M,Outside/Open Areas
+890,773535,64.0,M,Outside/Open Areas
+891,773535,,M,Outside/Open Areas
+892,773535,79.0,F,Permanent Home
+893,773535,99.0,F,Permanent Home
+894,773536,35.0,M,Outside/Open Areas
+895,773536,50.0,M,Outside/Open Areas
+896,773536,53.0,M,Outside/Open Areas
+897,773536,63.0,M,Outside/Open Areas
+898,773536,75.0,M,Permanent Home
+899,773537,68.0,M,Unknown
+900,773537,59.0,M,Other
+901,773537,54.0,M,Outside/Open Areas
+902,773537,75.0,F,Outside/Open Areas
+903,773537,56.0,M,Outside/Open Areas
+904,773537,44.0,M,Outside/Open Areas
+905,773537,58.0,M,Outside/Open Areas
+906,773537,41.0,M,Outside/Open Areas
+907,773537,46.0,M,Outside/Open Areas
+908,773537,54.0,M,Outside/Open Areas
+909,773537,71.0,F,Permanent Home
+910,773537,68.0,M,Permanent Home
+911,773537,55.0,M,Permanent Home
+912,773537,66.0,F,Permanent Home
+913,773537,42.0,F,Permanent Home
+914,773537,81.0,M,Permanent Home
+915,773537,75.0,M,Permanent Home
+916,774967,78.0,M,Vehicle/Towed Trailer
+917,775396,25.0,M,In Water
+918,775400,68.0,M,In Water
+919,775579,43.0,F,In Water
+920,775581,41.0,M,In Water
+921,776172,20.0,M,In Water
+922,764696,53.0,M,Vehicle/Towed Trailer
+923,774127,34.0,M,In Water
+924,774128,32.0,F,In Water
+925,775409,70.0,M,Outside/Open Areas
+926,824113,61.0,M,Outside/Open Areas
+927,771912,49.0,M,Outside/Open Areas
+928,773417,9.0,M,In Water
+929,773823,64.0,M,In Water
+930,773826,24.0,M,In Water
+931,776881,1.0,M,Vehicle/Towed Trailer
+932,776881,,F,Vehicle/Towed Trailer
+933,778074,17.0,M,In Water
+934,780582,43.0,M,In Water
+935,783402,85.0,M,Permanent Home
+936,783402,71.0,M,Permanent Home
+937,783403,41.0,M,Outside/Open Areas
+938,783404,58.0,M,Outside/Open Areas
+939,783701,23.0,F,Vehicle/Towed Trailer
+940,784008,35.0,M,Vehicle/Towed Trailer
+941,784424,40.0,M,Vehicle/Towed Trailer
+942,785023,33.0,M,Outside/Open Areas
+943,785388,69.0,M,In Water
+944,785476,18.0,F,In Water
+945,785476,2.0,F,In Water
+946,785483,54.0,F,Permanent Home
+947,786080,23.0,M,In Water
+948,786781,53.0,F,Unknown
+949,786876,27.0,M,Outside/Open Areas
+950,786922,60.0,M,Business
+951,787252,61.0,F,Outside/Open Areas
+952,787800,0.0,M,Mobile/Trailer Home
+953,787816,61.0,F,Vehicle/Towed Trailer
+954,787817,49.0,M,Other
+955,787817,41.0,F,Other
+956,787887,1.0,M,Vehicle/Towed Trailer
+957,787914,88.0,M,Vehicle/Towed Trailer
+958,787921,46.0,F,Vehicle/Towed Trailer
+959,774074,40.0,M,Outside/Open Areas
+960,774083,18.0,M,Outside/Open Areas
+961,779523,28.0,M,Outside/Open Areas
+962,781930,77.0,M,Vehicle/Towed Trailer
+963,864708,,,Unknown
+964,864708,,,Unknown
+965,864712,,,Unknown
+966,864712,,,Unknown
+967,864712,,,Unknown
+968,864712,,,Unknown
+969,864712,,,Unknown
+970,864712,,,Unknown
+971,864712,,,Unknown
+972,864712,,,Unknown
+973,864712,,,Unknown
+974,864712,,,Unknown
+975,864712,,,Unknown
+976,864717,,,Unknown
+977,864849,,,Unknown
+978,864850,,,Unknown
+979,864851,,,Unknown
+980,864852,,,Unknown
+981,864861,,,Unknown
+982,864861,,,Unknown
+983,864885,,,Unknown
+984,743632,36.0,M,Under Tree
+985,746849,,F,In Water
+986,764407,14.0,M,Camping
+987,864886,,,Unknown
+988,864887,,,Unknown
+989,864888,,,Unknown
+990,864890,,,Unknown
+991,864891,,,Unknown
+992,864892,,,Unknown
+993,864897,,,Unknown
+994,864898,,,Unknown
+995,864898,,,Unknown
+996,864898,,,Unknown
+997,864898,,,Unknown
+998,784380,,M,Outside/Open Areas
+999,784961,61.0,,Permanent Home
+1000,784961,63.0,,Permanent Home
+1001,784963,81.0,M,Vehicle/Towed Trailer
+1002,784966,45.0,F,Vehicle/Towed Trailer
+1003,784966,43.0,F,Vehicle/Towed Trailer
+1004,784975,23.0,M,Vehicle/Towed Trailer
+1005,864898,,,Unknown
+1006,864898,,,Unknown
+1007,864898,,,Unknown
+1008,864898,,,Unknown
+1009,864898,,,Unknown
+1010,786489,83.0,,Vehicle/Towed Trailer
+1011,786498,51.0,F,Vehicle/Towed Trailer
+1012,786794,71.0,M,Vehicle/Towed Trailer
+1013,786993,85.0,M,Outside/Open Areas
+1014,864899,,,Unknown
+1015,864899,,,Unknown
+1016,864899,,,Unknown
+1017,864900,,,Unknown
+1018,864904,,,Unknown
+1019,864904,,,Unknown
+1020,864905,,,Unknown
+1021,864906,,,Unknown
+1022,727673,75.0,M,Outside/Open Areas
+1023,727674,88.0,F,Outside/Open Areas
+1024,727675,27.0,F,Outside/Open Areas
+1025,727697,35.0,M,Vehicle/Towed Trailer
+1026,727703,52.0,F,Outside/Open Areas
+1027,736999,,,Outside/Open Areas
+1028,737000,,,Outside/Open Areas
+1029,737656,,M,Outside/Open Areas
+1030,739886,,,Outside/Open Areas
+1031,739887,82.0,F,Outside/Open Areas
+1032,864907,,,Unknown
+1033,864908,,,Unknown
+1034,864909,,,Unknown
+1035,864910,,,Unknown
+1036,864910,,,Unknown
+1037,864919,,,Unknown
+1038,864921,,,Unknown
+1039,864924,,,Unknown
+1040,864925,,,Unknown
+1041,864925,,,Unknown
+1042,864926,26.0,M,Outside/Open Areas
+1043,864928,,,Unknown
+1044,864931,,,Unknown
+1045,864933,,,Unknown
+1046,864935,,,Unknown
+1047,864936,,,Unknown
+1048,864937,,,Unknown
+1049,865099,,,Unknown
+1050,865099,,,Unknown
+1051,865319,,,Unknown
+1052,865921,,,Unknown
+1053,865921,,,Unknown
+1054,865921,,,Unknown
+1055,865922,,,Unknown
+1056,865922,,,Unknown
+1057,866442,,,Unknown
+1058,866442,,,Unknown
+1059,866443,,,Unknown
+1060,866443,,,Unknown
+1061,866443,,,Unknown
+1062,866444,,,Unknown
+1063,866444,,,Unknown
+1064,866447,,,Unknown
+1065,866450,,,Unknown
+1066,866450,,,Unknown
+1067,866450,,,Unknown
+1068,866452,,,Unknown
+1069,866452,,,Unknown
+1070,866453,,,Unknown
+1071,866453,,,Unknown
+1072,866455,,,Unknown
+1073,866455,,,Unknown
+1074,866455,,,Unknown
+1075,866455,,,Unknown
+1076,866455,,,Unknown
+1077,866455,,,Unknown
+1078,866455,,,Unknown
+1079,866455,,,Unknown
+1080,866455,,,Unknown
+1081,866455,,,Unknown
+1082,866456,,,Unknown
+1083,866456,,,Unknown
+1084,867054,65.0,M,Outside/Open Areas
+1085,867269,,,Unknown
+1086,867271,,,Unknown
+1087,867272,,,Unknown
+1088,867273,,,Unknown
+1089,867285,,,Unknown
+1090,867286,,,Unknown
+1091,867287,,,Unknown
+1092,867288,,,Unknown
+1093,867289,,,Unknown
+1094,867295,,,Unknown
+1095,867296,,,Unknown
+1096,867297,,,Unknown
+1097,867298,,,Unknown
+1098,867299,,,Unknown
+1099,867300,,,Unknown
+1100,867301,,,Unknown
+1101,867301,,,Unknown
+1102,867317,,,Unknown
+1103,867318,,,Unknown
+1104,867319,,,Unknown
+1105,867320,,,Unknown
+1106,867355,,,Unknown
+1107,867356,,,Unknown
+1108,867356,,,Unknown
+1109,867357,,,Unknown
+1110,867358,,,Unknown
+1111,867359,,,Unknown
+1112,867359,,,Unknown
+1113,867360,,,Unknown
+1114,867361,,,Unknown
+1115,867362,,,Unknown
+1116,867363,,,Unknown
+1117,867364,,,Unknown
+1118,867365,,,Unknown
+1119,867366,,,Unknown
+1120,867367,,,Unknown
+1121,867368,,,Unknown
+1122,867369,,,Unknown
+1123,866455,,,Unknown
+1124,778943,,M,Outside/Open Areas
+1125,864712,,,Unknown
+1126,733846,46.0,F,Outside/Open Areas
+1127,738582,83.0,M,Mobile/Trailer Home
+1128,743753,52.0,F,In Water
+1129,747628,38.0,F,Boating
+1130,726052,52.0,F,Outside/Open Areas
+1131,726215,20.0,M,Vehicle/Towed Trailer
+1132,726225,29.0,M,Vehicle/Towed Trailer
+1133,726403,49.0,M,Outside/Open Areas
+1134,726404,,M,Outside/Open Areas
+1135,726483,21.0,M,In Water
+1136,726786,56.0,M,Vehicle/Towed Trailer
+1137,727203,,M,Outside/Open Areas
+1138,727233,18.0,F,Vehicle/Towed Trailer
+1139,727233,56.0,M,Vehicle/Towed Trailer
+1140,727488,69.0,M,Outside/Open Areas
+1141,727488,57.0,F,Outside/Open Areas
+1142,727604,26.0,M,Vehicle/Towed Trailer
+1143,864886,,,Unknown
+1144,864898,,,Unknown
+1145,864904,,,Unknown
+1146,864924,,,Unknown
+1147,864939,,,Unknown
+1148,866442,,,Unknown
+1149,727985,27.0,M,Outside/Open Areas
+1150,728128,60.0,M,Vehicle/Towed Trailer
+1151,728269,82.0,F,Vehicle/Towed Trailer
+1152,728565,82.0,M,Outside/Open Areas
+1153,729040,25.0,M,Outside/Open Areas
+1154,730198,26.0,F,In Water
+1155,731057,31.0,F,Vehicle/Towed Trailer
+1156,731598,65.0,F,Outside/Open Areas
+1157,731599,57.0,F,Outside/Open Areas
+1158,731600,96.0,F,Outside/Open Areas
+1159,731601,55.0,M,Outside/Open Areas
+1160,731727,48.0,M,Outside/Open Areas
+1161,733015,45.0,F,Outside/Open Areas
+1162,733767,48.0,M,Outside/Open Areas
+1163,733767,63.0,M,Vehicle/Towed Trailer
+1164,866452,,,Unknown
+1165,734468,14.0,M,Outside/Open Areas
+1166,734679,,,Vehicle/Towed Trailer
+1167,734679,,,Vehicle/Towed Trailer
+1168,734806,60.0,F,Outside/Open Areas
+1169,734809,19.0,M,Outside/Open Areas
+1170,734908,41.0,M,Vehicle/Towed Trailer
+1171,734912,,M,Vehicle/Towed Trailer
+1172,734912,,,Vehicle/Towed Trailer
+1173,735408,57.0,M,Outside/Open Areas
+1174,735409,0.0,M,Vehicle/Towed Trailer
+1175,735822,6.0,M,Outside/Open Areas
+1176,735911,59.0,M,Vehicle/Towed Trailer
+1177,736574,65.0,M,Outside/Open Areas
+1178,781920,46.0,M,Vehicle/Towed Trailer
+1179,864889,,,Unknown
+1180,737012,36.0,F,Outside/Open Areas
+1181,737092,57.0,M,Vehicle/Towed Trailer
+1182,737092,73.0,M,Vehicle/Towed Trailer
+1183,737106,23.0,F,Vehicle/Towed Trailer
+1184,737398,72.0,F,Permanent Structure
+1185,737434,36.0,M,Vehicle/Towed Trailer
+1186,737438,46.0,M,Vehicle/Towed Trailer
+1187,864925,,,Unknown
+1188,737504,68.0,F,Outside/Open Areas
+1189,737519,64.0,M,Vehicle/Towed Trailer
+1190,737640,84.0,M,Permanent Home
+1191,866451,,,Unknown
+1192,737791,,,Outside/Open Areas
+1193,737796,,,Outside/Open Areas
+1194,738328,21.0,M,Vehicle/Towed Trailer
+1195,738329,,M,Outside/Open Areas
+1196,745618,32.0,M,Outside/Open Areas
+1197,751916,,F,Under Tree
+1198,786913,11.0,M,In Water
+1199,786913,16.0,M,In Water
+1200,854799,,,Unknown
+1201,854799,,,Unknown
+1202,854805,,,Unknown
+1203,854805,,,Unknown
+1204,854805,,,Unknown
+1205,854806,,,Unknown
+1206,854807,,,Unknown
+1207,855619,,,Unknown
+1208,855619,,,Unknown
+1209,856204,,,Unknown
+1210,856204,,,Unknown
+1211,856204,,,Unknown
+1212,858357,,,Unknown
+1213,861878,34.0,M,Outside/Open Areas
+1214,778759,49.0,M,In Water
+1215,778759,47.0,F,In Water
+1216,782826,8.0,M,In Water
+1217,785747,74.0,M,Permanent Home
+1218,785748,22.0,F,Permanent Home
+1219,785756,67.0,M,Outside/Open Areas
+1220,783856,65.0,M,Outside/Open Areas
+1221,783860,79.0,F,Outside/Open Areas
+1222,783872,81.0,M,Outside/Open Areas
+1223,799751,27.0,M,In Water
+1224,774718,37.0,M,Vehicle/Towed Trailer
+1225,774718,5.0,M,Vehicle/Towed Trailer
+1226,774718,4.0,F,Vehicle/Towed Trailer
+1227,774718,70.0,F,Unknown
+1228,774715,,,Unknown
+1229,774715,81.0,M,Heavy Equipment/Construction
+1230,774715,40.0,M,Heavy Equipment/Construction
+1231,774715,21.0,M,Heavy Equipment/Construction
+1232,774723,42.0,M,Under Tree
+1233,737349,,,Unknown
+1234,737349,,,Unknown
+1235,737349,,,Unknown
+1236,737349,,,Unknown
+1237,737349,,,Unknown
+1238,737349,,,Unknown
+1239,737349,,,Unknown
+1240,737349,,,Unknown
+1241,737349,,,Unknown
+1242,737349,,,Unknown
+1243,737349,,,Unknown
+1244,737349,,,Unknown
+1245,737349,,,Unknown
+1246,737349,,,Unknown
+1247,737349,,,Unknown
+1248,737349,,,Unknown
+1249,737349,,,Unknown
+1250,737349,,,Unknown
+1251,737349,,,Unknown
+1252,737349,,,Unknown
+1253,737349,,,Unknown
+1254,807380,20.0,F,Vehicle/Towed Trailer
+1255,743596,49.0,F,Vehicle/Towed Trailer
+1256,743586,34.0,M,Vehicle/Towed Trailer
+1257,743586,43.0,M,Vehicle/Towed Trailer
+1258,727489,52.0,M,Vehicle/Towed Trailer
+1259,727489,35.0,M,Vehicle/Towed Trailer
+1260,785740,68.0,M,Unknown
+1261,785741,77.0,M,Unknown
+1262,861893,42.0,M,Outside/Open Areas
+1263,861895,51.0,M,Outside/Open Areas
+1264,861909,47.0,F,Outside/Open Areas
+1265,861910,27.0,M,Outside/Open Areas
+1266,861919,29.0,M,Outside/Open Areas
+1267,862273,,,Unknown
+1268,862273,,,Unknown
+1269,862273,,,Unknown
+1270,862273,,,Unknown
+1271,862273,,,Unknown
+1272,862273,,,Unknown
+1273,862273,,,Unknown
+1274,862273,,,Unknown
+1275,862273,,,Unknown
+1276,862273,,,Unknown
+1277,862273,,,Unknown
+1278,862273,,,Unknown
+1279,862273,,,Unknown
+1280,862273,,,Unknown
+1281,862273,,,Unknown
+1282,862273,,,Unknown
+1283,862273,,,Unknown
+1284,862274,,,Unknown
+1285,862274,,,Unknown
+1286,862274,,,Unknown
+1287,862274,,,Unknown
+1288,862274,,,Unknown
+1289,862274,,,Unknown
+1290,862274,,,Unknown
+1291,862274,,,Unknown
+1292,862274,,,Unknown
+1293,862274,,,Unknown
+1294,862275,,,Unknown
+1295,862275,,,Unknown
+1296,862275,,,Unknown
+1297,862277,,,Unknown
+1298,862278,,,Unknown
+1299,862279,,,Unknown
+1300,862279,,,Unknown
+1301,862279,,,Unknown
+1302,863310,,,Unknown
+1303,863310,,,Unknown
+1304,863310,,,Unknown
+1305,863310,,,Unknown
+1306,863310,,,Unknown
+1307,863311,,,Unknown
+1308,863312,,,Unknown
+1309,863313,,,Unknown
+1310,863313,,,Unknown
+1311,863313,,,Unknown
+1312,863313,,,Unknown
+1313,863314,,,Unknown
+1314,863314,,,Unknown
+1315,863379,,,Unknown
+1316,863379,,,Unknown
+1317,863758,34.0,M,Unknown
+1318,863879,,,Unknown
+1319,863879,,,Unknown
+1320,863879,,,Unknown
+1321,863880,,,Unknown
+1322,863917,,,Unknown
+1323,864337,,,Unknown
+1324,864339,,,Unknown
+1325,864340,,,Unknown
+1326,864342,,,Unknown
+1327,864342,,,Unknown
+1328,864342,,,Unknown
+1329,864342,,,Unknown
+1330,864342,,,Unknown
+1331,864338,,,Unknown
+1332,830028,44.0,F,Permanent Home
+1333,784797,77.0,M,Vehicle/Towed Trailer
+1334,785131,39.0,M,Outside/Open Areas
+1335,759483,32.0,F,Permanent Home
+1336,786744,78.0,M,Vehicle/Towed Trailer
+1337,788617,38.0,F,Vehicle/Towed Trailer
+1338,789509,54.0,M,Vehicle/Towed Trailer
+1339,792470,48.0,M,Permanent Home
+1340,791728,37.0,F,Outside/Open Areas
+1341,788886,19.0,M,Vehicle/Towed Trailer
+1342,792571,46.0,M,In Water
+1343,792571,52.0,F,In Water
+1344,792641,78.0,M,Vehicle/Towed Trailer
+1345,793520,76.0,F,Vehicle/Towed Trailer
+1346,793520,61.0,F,Vehicle/Towed Trailer
+1347,794526,41.0,F,Permanent Home
+1348,737466,,M,In Water
+1349,737542,,M,In Water
+1350,767747,47.0,M,In Water
+1351,767747,17.0,M,In Water
+1352,767750,53.0,M,In Water
+1353,767801,30.0,M,In Water
+1354,767803,18.0,F,In Water
+1355,767805,50.0,M,In Water
+1356,774666,,M,In Water
+1357,785090,2.0,F,Mobile/Trailer Home
+1358,785711,73.0,M,Unknown
+1359,785715,86.0,F,Permanent Home
+1360,785715,86.0,M,Permanent Home
+1361,785716,81.0,M,Unknown
+1362,786266,73.0,M,Vehicle/Towed Trailer
+1363,786266,65.0,M,Vehicle/Towed Trailer
+1364,786268,52.0,M,Vehicle/Towed Trailer
+1365,786315,87.0,M,Unknown
+1366,788675,,,Unknown
+1367,788675,,,Unknown
+1368,788675,,,Unknown
+1369,788675,,,Unknown
+1370,788675,,,Unknown
+1371,788675,,,Unknown
+1372,788675,,,Unknown
+1373,788675,,,Unknown
+1374,788675,,,Unknown
+1375,788675,,,Unknown
+1376,788675,,,Unknown
+1377,788675,,,Unknown
+1378,788675,,,Unknown
+1379,788675,,,Unknown
+1380,788675,,,Unknown
+1381,788675,,,Unknown
+1382,788675,,,Unknown
+1383,788675,,,Unknown
+1384,788675,,,Unknown
+1385,788675,,,Unknown
+1386,788675,,,Unknown
+1387,788675,,,Unknown
+1388,788675,,,Unknown
+1389,788675,,,Unknown
+1390,788675,,,Unknown
+1391,788675,,,Unknown
+1392,788675,,,Unknown
+1393,788675,,,Unknown
+1394,788675,,,Unknown
+1395,788675,,,Unknown
+1396,788675,,,Unknown
+1397,788675,,,Unknown
+1398,788675,,,Unknown
+1399,788675,,,Unknown
+1400,788675,,,Unknown
+1401,788675,,,Unknown
+1402,788675,,,Unknown
+1403,788675,,,Unknown
+1404,788675,,,Unknown
+1405,788675,,,Unknown
+1406,788675,,,Unknown
+1407,788675,,,Unknown
+1408,788675,,,Unknown
+1409,788675,,,Unknown
+1410,788675,,,Unknown
+1411,788675,,,Unknown
+1412,788675,,,Unknown
+1413,788675,,,Unknown
+1414,788675,,,Unknown
+1415,788675,,,Unknown
+1416,788675,,,Unknown
+1417,788675,,,Unknown
+1418,788675,,,Unknown
+1419,788675,,,Unknown
+1420,788675,,,Unknown
+1421,788675,,,Unknown
+1422,788675,,,Unknown
+1423,788675,,,Unknown
+1424,788675,,,Unknown
+1425,788675,,,Unknown
+1426,788675,,,Unknown
+1427,788675,,,Unknown
+1428,788675,,,Unknown
+1429,788675,,,Unknown
+1430,788675,,,Unknown
+1431,788675,,,Unknown
+1432,788675,,,Unknown
+1433,788675,,,Unknown
+1434,784798,62.0,F,Vehicle/Towed Trailer
+1435,788675,,,Unknown
+1436,744182,36.0,F,Vehicle/Towed Trailer
+1437,744182,5.0,F,Vehicle/Towed Trailer
+1438,788675,,,Unknown
+1439,788675,,,Unknown
+1440,746894,1.0,F,Vehicle/Towed Trailer
+1441,747018,0.0,F,Vehicle/Towed Trailer
+1442,748170,,M,Outside/Open Areas
+1443,750890,52.0,F,In Water
+1444,751595,59.0,M,In Water
+1445,751955,5.0,M,In Water
+1446,751966,31.0,M,In Water
+1447,751974,61.0,M,In Water
+1448,751979,28.0,M,In Water
+1449,753726,53.0,F,Outside/Open Areas
+1450,788675,,,Unknown
+1451,754418,18.0,M,In Water
+1452,754420,39.0,M,In Water
+1453,754422,34.0,F,In Water
+1454,754749,47.0,M,Vehicle/Towed Trailer
+1455,756269,88.0,M,Outside/Open Areas
+1456,756269,54.0,M,Outside/Open Areas
+1457,756270,61.0,M,Outside/Open Areas
+1458,788675,,,Unknown
+1459,757297,,,Vehicle/Towed Trailer
+1460,788675,,,Unknown
+1461,788675,,,Unknown
+1462,758794,57.0,M,Boating
+1463,758796,50.0,F,Outside/Open Areas
+1464,758860,59.0,F,Permanent Home
+1465,759312,68.0,M,Permanent Home
+1466,759312,66.0,F,Permanent Home
+1467,788675,,,Unknown
+1468,760172,36.0,M,Vehicle/Towed Trailer
+1469,760172,35.0,M,Vehicle/Towed Trailer
+1470,761126,68.0,M,Vehicle/Towed Trailer
+1471,761444,2.0,,In Water
+1472,763337,,,Boating
+1473,790378,48.0,M,Vehicle/Towed Trailer
+1474,790426,82.0,M,Permanent Home
+1475,871251,38.0,M,Outside/Open Areas
+1476,871252,25.0,M,Outside/Open Areas
+1477,796756,34.0,M,Permanent Structure
+1478,737543,17.0,M,In Water
+1479,785711,62.0,M,Unknown
+1480,788675,,,Unknown
+1481,788675,,,Unknown
+1482,788675,,,Unknown
+1483,788675,,,Unknown
+1484,788675,,,Unknown
+1485,788675,,,Unknown
+1486,788675,,,Unknown
+1487,788675,,,Unknown
+1488,788675,,,Unknown
+1489,788675,,,Unknown
+1490,740496,72.0,F,Vehicle/Towed Trailer
+1491,740496,67.0,M,Vehicle/Towed Trailer
+1492,745602,45.0,F,In Water
+1493,756478,,F,Under Tree
+1494,756718,80.0,F,Under Tree
+1495,759999,39.0,M,Outside/Open Areas
+1496,760004,82.0,M,Vehicle/Towed Trailer
+1497,760004,79.0,F,Vehicle/Towed Trailer
+1498,760005,43.0,F,In Water
+1499,760825,23.0,M,Outside/Open Areas
+1500,771183,55.0,M,Outside/Open Areas
+1501,772286,,F,Unknown
+1502,772286,,F,Unknown
+1503,772286,,F,Unknown
+1504,772286,,M,Unknown
+1505,772286,,M,Unknown
+1506,772286,,M,Unknown
+1507,772286,,M,Unknown
+1508,772286,,M,Unknown
+1509,772288,,M,Unknown
+1510,772379,,M,Unknown
+1511,772380,,M,Unknown
+1512,772381,,M,Unknown
+1513,772381,,,Unknown
+1514,772381,,,Unknown
+1515,772382,,M,Unknown
+1516,772382,,M,Unknown
+1517,772383,,F,Unknown
+1518,772384,,M,Unknown
+1519,776801,41.0,M,Outside/Open Areas
+1520,776989,18.0,M,Outside/Open Areas
+1521,776990,19.0,F,Outside/Open Areas
+1522,783373,,M,Under Tree
+1523,783446,11.0,F,Under Tree
+1524,783447,41.0,F,Under Tree
+1525,784181,73.0,F,Under Tree
+1526,784196,75.0,M,Outside/Open Areas
+1527,784378,6.0,M,In Water
+1528,727655,27.0,F,Outside/Open Areas
+1529,767467,45.0,F,Mobile/Trailer Home
+1530,769782,11.0,F,Vehicle/Towed Trailer
+1531,772804,14.0,M,In Water
+1532,774545,72.0,M,Vehicle/Towed Trailer
+1533,774545,39.0,M,Vehicle/Towed Trailer
+1534,778966,10.0,M,In Water
+1535,778966,14.0,M,In Water
+1536,779120,43.0,F,Unknown
+1537,779120,35.0,M,Outside/Open Areas
+1538,779120,63.0,M,Outside/Open Areas
+1539,779120,50.0,M,Outside/Open Areas
+1540,779120,58.0,M,Outside/Open Areas
+1541,779120,61.0,M,Outside/Open Areas
+1542,779120,55.0,M,Outside/Open Areas
+1543,779120,68.0,M,Permanent Home
+1544,779120,86.0,M,Permanent Home
+1545,779120,71.0,F,Vehicle/Towed Trailer
+1546,779141,53.0,F,Outside/Open Areas
+1547,779141,55.0,M,Outside/Open Areas
+1548,779141,85.0,F,Outside/Open Areas
+1549,779141,40.0,F,Outside/Open Areas
+1550,779141,48.0,M,Outside/Open Areas
+1551,779141,84.0,F,Permanent Home
+1552,779141,91.0,M,Permanent Home
+1553,779161,66.0,M,Outside/Open Areas
+1554,779161,90.0,F,Outside/Open Areas
+1555,779161,72.0,M,Permanent Home
+1556,779161,65.0,M,Permanent Home
+1557,779162,90.0,M,Mobile/Trailer Home
+1558,779162,36.0,M,Outside/Open Areas
+1559,779162,66.0,M,Outside/Open Areas
+1560,779162,59.0,M,Outside/Open Areas
+1561,779162,40.0,M,Outside/Open Areas
+1562,779162,33.0,M,Outside/Open Areas
+1563,779162,63.0,M,Outside/Open Areas
+1564,779162,55.0,M,Outside/Open Areas
+1565,779162,83.0,M,Permanent Home
+1566,779162,78.0,M,Permanent Home
+1567,779162,83.0,F,Permanent Home
+1568,779162,75.0,M,Permanent Home
+1569,779162,73.0,F,Permanent Home
+1570,779162,74.0,M,Permanent Home
+1571,779162,74.0,F,Permanent Home
+1572,779162,76.0,M,Permanent Home
+1573,779162,61.0,M,Permanent Structure
+1574,779162,58.0,M,Vehicle/Towed Trailer
+1575,779163,79.0,M,Outside/Open Areas
+1576,779163,71.0,M,Permanent Home
+1577,779163,76.0,M,Permanent Home
+1578,779859,39.0,M,In Water
+1579,779859,9.0,F,In Water
+1580,779859,5.0,F,In Water
+1581,779859,3.0,M,In Water
+1582,779874,41.0,M,In Water
+1583,781581,32.0,M,Outside/Open Areas
+1584,782083,69.0,M,Boating
+1585,783385,24.0,F,In Water
+1586,750301,55.0,M,In Water
+1587,751975,67.0,M,In Water
+1588,751976,21.0,M,In Water
+1589,751977,15.0,M,In Water
+1590,751978,60.0,M,In Water
+1591,753109,,M,Unknown
+1592,753635,48.0,M,In Water
+1593,753637,48.0,M,In Water
+1594,753814,33.0,M,Unknown
+1595,753974,44.0,M,Boating
+1596,755021,,,Unknown
+1597,757760,1.0,F,Vehicle/Towed Trailer
+1598,758147,48.0,M,In Water
+1599,758846,67.0,M,Vehicle/Towed Trailer
+1600,759145,12.0,M,Permanent Home
+1601,762189,56.0,M,In Water
+1602,762629,65.0,M,Outside/Open Areas
+1603,762629,39.0,M,Outside/Open Areas
+1604,762629,84.0,M,Permanent Home
+1605,762629,59.0,M,Vehicle/Towed Trailer
+1606,762630,57.0,M,Outside/Open Areas
+1607,762630,69.0,F,Outside/Open Areas
+1608,762630,66.0,M,Outside/Open Areas
+1609,762630,79.0,M,Permanent Home
+1610,762631,47.0,M,Vehicle/Towed Trailer
+1611,762633,52.0,M,Permanent Home
+1612,762633,59.0,F,Permanent Home
+1613,762647,97.0,F,Outside/Open Areas
+1614,762647,73.0,F,Outside/Open Areas
+1615,762647,71.0,F,Permanent Home
+1616,762647,58.0,M,Vehicle/Towed Trailer
+1617,763373,42.0,M,Camping
+1618,763714,38.0,M,In Water
+1619,764786,55.0,M,Camping
+1620,765635,75.0,M,Vehicle/Towed Trailer
+1621,766281,,M,Unknown
+1622,767004,53.0,M,Vehicle/Towed Trailer
+1623,767020,66.0,M,Vehicle/Towed Trailer
+1624,767237,2.0,M,Vehicle/Towed Trailer
+1625,767809,34.0,M,Outside/Open Areas
+1626,767822,31.0,M,Outside/Open Areas
+1627,768040,27.0,M,Heavy Equipment/Construction
+1628,769097,26.0,M,In Water
+1629,769121,50.0,M,In Water
+1630,769121,17.0,M,In Water
+1631,769873,,M,Unknown
+1632,755347,67.0,M,Permanent Home
+1633,755349,57.0,F,Mobile/Trailer Home
+1634,755349,71.0,M,Permanent Home
+1635,780089,34.0,M,Vehicle/Towed Trailer
+1636,780430,2.0,M,Outside/Open Areas
+1637,780605,73.0,M,In Water
+1638,782329,75.0,F,Boating
+1639,784992,62.0,F,Vehicle/Towed Trailer
+1640,784992,36.0,M,Vehicle/Towed Trailer
+1641,788692,22.0,M,Vehicle/Towed Trailer
+1642,789339,35.0,M,Heavy Equipment/Construction
+1643,789465,57.0,M,In Water
+1644,789466,18.0,M,In Water
+1645,789476,45.0,M,Vehicle/Towed Trailer
+1646,789505,51.0,F,Other
+1647,789505,52.0,M,Other
+1648,790227,78.0,F,Vehicle/Towed Trailer
+1649,790530,58.0,F,Vehicle/Towed Trailer
+1650,790600,17.0,M,In Water
+1651,790600,18.0,M,In Water
+1652,790835,53.0,M,Vehicle/Towed Trailer
+1653,790835,60.0,F,Vehicle/Towed Trailer
+1654,790873,,M,In Water
+1655,727804,57.0,M,Outside/Open Areas
+1656,734042,57.0,M,Vehicle/Towed Trailer
+1657,734333,41.0,M,Outside/Open Areas
+1658,740753,47.0,M,Vehicle/Towed Trailer
+1659,746559,77.0,F,Outside/Open Areas
+1660,748971,16.0,M,Vehicle/Towed Trailer
+1661,748971,49.0,M,Vehicle/Towed Trailer
+1662,748971,48.0,F,Vehicle/Towed Trailer
+1663,753677,36.0,M,Permanent Structure
+1664,761303,21.0,M,In Water
+1665,763646,45.0,M,Boating
+1666,763646,31.0,M,Boating
+1667,737864,46.0,M,Other
+1668,764991,66.0,M,Vehicle/Towed Trailer
+1669,773052,46.0,F,Vehicle/Towed Trailer
+1670,773285,40.0,M,Under Tree
+1671,777333,,,Unknown
+1672,777364,,M,Unknown
+1673,777364,,,Unknown
+1674,777365,,F,Unknown
+1675,781091,34.0,F,In Water
+1676,781091,67.0,M,Vehicle/Towed Trailer
+1677,783080,,,Unknown
+1678,786060,35.0,M,Outside/Open Areas
+1679,788039,46.0,M,Other
+1680,755349,79.0,F,Permanent Home
+1681,730122,27.0,M,Vehicle/Towed Trailer
+1682,730122,56.0,M,Vehicle/Towed Trailer
+1683,730122,77.0,F,Vehicle/Towed Trailer
+1684,730122,34.0,M,Vehicle/Towed Trailer
+1685,730135,54.0,F,Vehicle/Towed Trailer
+1686,731690,53.0,F,Vehicle/Towed Trailer
+1687,733643,25.0,M,Vehicle/Towed Trailer
+1688,788762,,M,Outside/Open Areas
+1689,743879,59.0,M,In Water
+1690,744184,11.0,M,Permanent Structure
+1691,744214,,,Outside/Open Areas
+1692,789116,,M,Unknown
+1693,789327,61.0,M,Vehicle/Towed Trailer
+1694,790714,74.0,F,Outside/Open Areas
+1695,790889,27.0,M,Outside/Open Areas
+1696,791367,,,Outside/Open Areas
+1697,791367,,M,Outside/Open Areas
+1698,791375,,M,In Water
+1699,791378,,F,In Water
+1700,791617,63.0,F,Vehicle/Towed Trailer
+1701,792067,12.0,M,Vehicle/Towed Trailer
+1702,792153,49.0,F,Vehicle/Towed Trailer
+1703,792166,,M,Boating
+1704,792844,21.0,M,Vehicle/Towed Trailer
+1705,792845,58.0,F,Camping
+1706,793215,31.0,M,Vehicle/Towed Trailer
+1707,793808,19.0,F,Vehicle/Towed Trailer
+1708,794523,61.0,M,Outside/Open Areas
+1709,796017,62.0,F,Vehicle/Towed Trailer
+1710,796017,63.0,M,Vehicle/Towed Trailer
+1711,797280,51.0,M,Outside/Open Areas
+1712,797347,78.0,F,Vehicle/Towed Trailer
+1713,797462,,,Vehicle/Towed Trailer
+1714,798159,31.0,M,Outside/Open Areas
+1715,798906,30.0,F,Camping
+1716,800730,22.0,F,In Water
+1717,740316,57.0,M,Boating
+1718,741199,61.0,M,Vehicle/Towed Trailer
+1719,742308,4.0,M,In Water
+1720,743643,30.0,F,Vehicle/Towed Trailer
+1721,744130,2.0,F,Mobile/Trailer Home
+1722,745607,32.0,M,In Water
+1723,745735,89.0,M,Outside/Open Areas
+1724,745735,63.0,M,Outside/Open Areas
+1725,745736,57.0,M,Outside/Open Areas
+1726,747736,56.0,M,In Water
+1727,749533,62.0,F,Vehicle/Towed Trailer
+1728,749535,61.0,M,Unknown
+1729,749643,23.0,F,Unknown
+1730,750491,,M,In Water
+1731,751925,,F,Under Tree
+1732,751926,,F,Under Tree
+1733,752005,,F,Under Tree
+1734,752006,,F,Under Tree
+1735,752007,,F,Under Tree
+1736,752008,,F,Under Tree
+1737,752009,,F,Under Tree
+1738,752010,,F,Under Tree
+1739,752011,,F,Under Tree
+1740,752012,,F,Under Tree
+1741,752857,84.0,F,Vehicle/Towed Trailer
+1742,752985,81.0,M,Vehicle/Towed Trailer
+1743,752986,81.0,M,Vehicle/Towed Trailer
+1744,757873,1.0,M,Vehicle/Towed Trailer
+1745,754019,48.0,M,Vehicle/Towed Trailer
+1746,754086,26.0,M,In Water
+1747,757873,1.0,F,Vehicle/Towed Trailer
+1748,767341,10.0,M,In Water
+1749,767342,31.0,M,In Water
+1750,769801,71.0,M,Vehicle/Towed Trailer
+1751,775196,69.0,F,Boating
+1752,775196,45.0,F,Boating
+1753,775196,2.0,M,Boating
+1754,775196,7.0,M,Boating
+1755,775196,9.0,M,Boating
+1756,775196,1.0,F,Boating
+1757,775196,15.0,M,Boating
+1758,775196,40.0,M,Boating
+1759,775196,53.0,M,Boating
+1760,775196,76.0,M,Boating
+1761,775196,73.0,M,Boating
+1762,775196,69.0,M,Boating
+1763,775196,65.0,M,Boating
+1764,775196,63.0,F,Boating
+1765,775196,64.0,F,Boating
+1766,775196,68.0,F,Boating
+1767,775196,70.0,M,Boating
+1768,785299,19.0,F,Vehicle/Towed Trailer
+1769,788080,63.0,F,Camping
+1770,788080,65.0,M,Camping
+1771,788080,55.0,M,Camping
+1772,788080,51.0,M,Camping
+1773,794225,32.0,M,Vehicle/Towed Trailer
+1774,794225,30.0,M,Vehicle/Towed Trailer
+1775,774125,17.0,M,In Water
+1776,783544,,M,Outside/Open Areas
+1777,780506,52.0,M,Boating
+1778,789972,52.0,F,Vehicle/Towed Trailer
+1779,790424,87.0,M,Permanent Home
+1780,790424,79.0,F,Permanent Home
+1781,790424,60.0,F,Permanent Home
+1782,790424,65.0,M,Permanent Home
+1783,790424,91.0,M,Permanent Home
+1784,790424,55.0,M,Permanent Home
+1785,789475,28.0,M,Permanent Home
+1786,789475,64.0,M,Outside/Open Areas
+1787,789475,43.0,M,Outside/Open Areas
+1788,789475,61.0,M,Outside/Open Areas
+1789,789475,52.0,M,Permanent Home
+1790,789475,79.0,F,Permanent Home
+1791,789475,81.0,M,Permanent Home
+1792,789475,71.0,M,Permanent Home
+1793,789475,78.0,M,Permanent Home
+1794,789475,68.0,M,Permanent Home
+1795,789475,67.0,M,Permanent Home
+1796,789475,70.0,M,Permanent Home
+1797,789475,64.0,M,Outside/Open Areas
+1798,789475,94.0,F,Permanent Home
+1799,789475,60.0,M,Outside/Open Areas
+1800,789475,64.0,M,Outside/Open Areas
+1801,790425,70.0,M,Vehicle/Towed Trailer
+1802,790374,63.0,M,Outside/Open Areas
+1803,790374,49.0,M,Outside/Open Areas
+1804,790377,82.0,M,Permanent Home
+1805,790379,48.0,M,Permanent Structure
+1806,790380,72.0,F,Permanent Structure
+1807,790381,44.0,M,Permanent Home
+1808,790381,71.0,M,Permanent Home
+1809,790382,78.0,M,Permanent Home
+1810,790382,55.0,M,Outside/Open Areas
+1811,790383,47.0,F,Permanent Home
+1812,790384,67.0,M,Mobile/Trailer Home
+1813,790384,67.0,M,Permanent Home
+1814,790384,91.0,M,Outside/Open Areas
+1815,790384,61.0,M,Permanent Home
+1816,790385,52.0,M,Outside/Open Areas
+1817,790385,62.0,M,Outside/Open Areas
+1818,790385,22.0,M,Outside/Open Areas
+1819,790385,93.0,M,Permanent Structure
+1820,790779,1.0,F,Vehicle/Towed Trailer
+1821,790398,11.0,F,Permanent Home
+1822,771715,67.0,M,Outside/Open Areas
+1823,774393,39.0,M,Under Tree
+1824,797027,63.0,M,In Water
+1825,773906,30.0,M,In Water
+1826,847160,1.0,F,Vehicle/Towed Trailer
+1827,819069,45.0,M,Vehicle/Towed Trailer
+1828,820152,,M,In Water
+1829,820397,48.0,M,In Water
+1830,820556,41.0,M,In Water
+1831,820556,59.0,M,In Water
+1832,823215,22.0,M,Boating
+1833,823241,48.0,F,Vehicle/Towed Trailer
+1834,824254,83.0,M,Outside/Open Areas
+1835,824286,14.0,M,In Water
+1836,824287,33.0,M,In Water
+1837,824288,34.0,M,In Water
+1838,825640,,F,In Water
+1839,825810,71.0,M,In Water
+1840,826063,,,Vehicle/Towed Trailer
+1841,826316,50.0,F,Outside/Open Areas
+1842,829480,59.0,F,Vehicle/Towed Trailer
+1843,832399,31.0,F,Other
+1844,832414,65.0,F,In Water
+1845,832420,29.0,M,Other
+1846,832432,64.0,F,In Water
+1847,833717,55.0,F,Boating
+1848,833747,29.0,F,Permanent Structure
+1849,835231,64.0,F,Permanent Home
+1850,836615,31.0,M,Outside/Open Areas
+1851,836615,78.0,M,Outside/Open Areas
+1852,836615,86.0,M,Permanent Home
+1853,836622,53.0,M,Unknown
+1854,836622,81.0,M,Unknown
+1855,836622,49.0,M,Outside/Open Areas
+1856,836622,53.0,M,Outside/Open Areas
+1857,836622,46.0,M,Outside/Open Areas
+1858,836622,43.0,M,Outside/Open Areas
+1859,836622,74.0,F,Outside/Open Areas
+1860,836622,47.0,M,Outside/Open Areas
+1861,836624,52.0,M,Outside/Open Areas
+1862,836625,51.0,M,Unknown
+1863,836625,26.0,M,Permanent Structure
+1864,836626,72.0,M,Outside/Open Areas
+1865,836627,81.0,F,Unknown
+1866,836627,60.0,M,Outside/Open Areas
+1867,837662,26.0,M,In Water
+1868,837666,16.0,M,In Water
+1869,837675,23.0,,In Water
+1870,839173,39.0,M,Under Tree
+1871,858720,,,Outside/Open Areas
+1872,840706,1.0,F,Vehicle/Towed Trailer
+1873,841056,4.0,M,Vehicle/Towed Trailer
+1874,841235,64.0,F,Vehicle/Towed Trailer
+1875,841246,62.0,M,Vehicle/Towed Trailer
+1876,841554,38.0,M,Vehicle/Towed Trailer
+1877,841676,40.0,M,Vehicle/Towed Trailer
+1878,841752,,M,Vehicle/Towed Trailer
+1879,858866,,,Unknown
+1880,859399,,,Vehicle/Towed Trailer
+1881,828322,61.0,M,Vehicle/Towed Trailer
+1882,856471,47.0,M,Vehicle/Towed Trailer
+1883,863827,21.0,M,Outside/Open Areas
+1884,860326,65.0,M,Outside/Open Areas
+1885,860437,21.0,M,Vehicle/Towed Trailer
+1886,862699,51.0,M,Vehicle/Towed Trailer
+1887,863280,51.0,M,Vehicle/Towed Trailer
+1888,863635,,M,In Water
+1889,863947,44.0,M,Outside/Open Areas
+1890,863947,56.0,F,Outside/Open Areas
+1891,864941,,M,In Water
+1892,866820,69.0,M,In Water
+1893,824183,74.0,F,Vehicle/Towed Trailer
+1894,824193,58.0,M,Outside/Open Areas
+1895,825251,35.0,M,In Water
+1896,826858,,M,Under Tree
+1897,828940,55.0,M,Vehicle/Towed Trailer
+1898,842419,21.0,M,Vehicle/Towed Trailer
+1899,847664,34.0,M,Outside/Open Areas
+1900,848346,34.0,M,In Water
+1901,848403,9.0,M,In Water
+1902,848407,48.0,F,In Water
+1903,848556,18.0,M,In Water
+1904,848847,22.0,M,In Water
+1905,855043,0.0,,Outside/Open Areas
+1906,855043,25.0,F,Outside/Open Areas
+1907,855043,0.0,,Outside/Open Areas
+1908,855043,3.0,,Outside/Open Areas
+1909,855506,52.0,M,Vehicle/Towed Trailer
+1910,855994,33.0,F,Outside/Open Areas
+1911,867694,91.0,M,Vehicle/Towed Trailer
+1912,868392,65.0,M,Vehicle/Towed Trailer
+1913,868562,71.0,F,Vehicle/Towed Trailer
+1914,868646,59.0,F,Outside/Open Areas
+1915,869482,59.0,F,Mobile/Trailer Home
+1916,869527,29.0,F,Outside/Open Areas
+1917,870508,52.0,M,Vehicle/Towed Trailer
+1918,870755,50.0,M,In Water
+1919,870824,1.0,M,Vehicle/Towed Trailer
+1920,845904,60.0,M,In Water
+1921,846563,68.0,M,Unknown
+1922,846565,72.0,M,Unknown
+1923,846565,62.0,M,Unknown
+1924,846565,56.0,M,Unknown
+1925,846567,86.0,M,Unknown
+1926,846943,29.0,M,In Water
+1927,848441,25.0,M,In Water
+1928,828480,48.0,M,Camping
+1929,834603,60.0,F,Vehicle/Towed Trailer
+1930,852818,1.0,M,Vehicle/Towed Trailer
+1931,813210,69.0,M,In Water
+1932,814159,48.0,M,In Water
+1933,814162,24.0,M,In Water
+1934,814162,5.0,M,In Water
+1935,814168,28.0,M,In Water
+1936,815834,61.0,M,Vehicle/Towed Trailer
+1937,816899,38.0,M,In Water
+1938,817969,55.0,F,Under Tree
+1939,818682,14.0,M,In Water
+1940,818683,74.0,M,In Water
+1941,819190,4.0,M,Vehicle/Towed Trailer
+1942,819685,21.0,M,In Water
+1943,821773,58.0,M,Outside/Open Areas
+1944,822591,32.0,M,Outside/Open Areas
+1945,822592,57.0,F,Permanent Structure
+1946,822596,1.0,F,Vehicle/Towed Trailer
+1947,824332,,,Unknown
+1948,825161,75.0,M,In Water
+1949,827043,,M,Permanent Home
+1950,827076,,,Unknown
+1951,827076,,,Unknown
+1952,828539,56.0,M,Boating
+1953,831552,64.0,M,In Water
+1954,808882,52.0,F,Vehicle/Towed Trailer
+1955,809854,53.0,F,Outside/Open Areas
+1956,823786,61.0,M,Outside/Open Areas
+1957,853949,2.0,M,Vehicle/Towed Trailer
+1958,862107,16.0,M,Vehicle/Towed Trailer
+1959,856768,14.0,M,In Water
+1960,862623,63.0,M,Outside/Open Areas
+1961,870491,,,Vehicle/Towed Trailer
+1962,870577,,,Unknown
+1963,870577,,,Unknown
+1964,873433,55.0,M,Outside/Open Areas
+1965,875117,6.0,F,Outside/Open Areas
+1966,875118,20.0,F,Outside/Open Areas
+1967,875142,18.0,M,Outside/Open Areas
+1968,875142,19.0,M,Outside/Open Areas
+1969,875142,40.0,M,Outside/Open Areas
+1970,875154,30.0,M,Outside/Open Areas
+1971,875155,25.0,M,Outside/Open Areas
+1972,875155,,M,Outside/Open Areas
+1973,875155,22.0,M,Outside/Open Areas
+1974,875284,,F,Outside/Open Areas
+1975,875307,,M,Outside/Open Areas
+1976,875307,26.0,M,Outside/Open Areas
+1977,875338,35.0,F,Outside/Open Areas
+1978,875343,21.0,M,Outside/Open Areas
+1979,875351,30.0,M,Outside/Open Areas
+1980,810342,59.0,M,Vehicle/Towed Trailer
+1981,811049,62.0,M,Vehicle/Towed Trailer
+1982,811925,59.0,M,Permanent Home
+1983,811925,91.0,M,Permanent Home
+1984,811941,20.0,F,Vehicle/Towed Trailer
+1985,811941,58.0,F,Vehicle/Towed Trailer
+1986,812258,68.0,M,Outside/Open Areas
+1987,812703,39.0,M,Vehicle/Towed Trailer
+1988,812703,24.0,F,Vehicle/Towed Trailer
+1989,813018,,M,Unknown
+1990,813103,54.0,M,Vehicle/Towed Trailer
+1991,816762,78.0,F,Permanent Home
+1992,819969,62.0,M,Outside/Open Areas
+1993,819969,55.0,M,Permanent Structure
+1994,824106,,M,Outside/Open Areas
+1995,824123,56.0,M,Outside/Open Areas
+1996,824124,56.0,M,Vehicle/Towed Trailer
+1997,825300,58.0,M,In Water
+1998,856740,54.0,F,Vehicle/Towed Trailer
+1999,856890,47.0,M,Vehicle/Towed Trailer
+2000,857758,,,Vehicle/Towed Trailer
+2001,859870,52.0,M,Outside/Open Areas
+2002,860238,39.0,F,Permanent Structure
+2003,860239,78.0,F,Other
+2004,860239,75.0,M,Outside/Open Areas
+2005,860239,61.0,M,Outside/Open Areas
+2006,860244,52.0,F,Vehicle/Towed Trailer
+2007,860312,6.0,F,Outside/Open Areas
+2008,860312,5.0,M,Outside/Open Areas
+2009,860312,5.0,F,Outside/Open Areas
+2010,860446,23.0,F,In Water
+2011,861420,46.0,M,Vehicle/Towed Trailer
+2012,861700,38.0,M,Vehicle/Towed Trailer
+2013,861730,41.0,M,Outside/Open Areas
+2014,861732,55.0,M,Outside/Open Areas
+2015,861864,50.0,F,Vehicle/Towed Trailer
+2016,863040,59.0,M,Vehicle/Towed Trailer
+2017,863301,8.0,M,Vehicle/Towed Trailer
+2018,863301,5.0,M,Vehicle/Towed Trailer
+2019,863301,48.0,M,Vehicle/Towed Trailer
+2020,863621,57.0,M,Vehicle/Towed Trailer
+2021,863848,23.0,F,Outside/Open Areas
+2022,865660,61.0,M,Vehicle/Towed Trailer
+2023,816403,86.0,F,Permanent Home
+2024,817483,82.0,M,Permanent Home
+2025,823729,22.0,M,In Water
+2026,832796,19.0,M,Mobile/Trailer Home
+2027,848560,15.0,M,In Water
+2028,848560,16.0,M,In Water
+2029,859118,82.0,M,Outside/Open Areas
+2030,861463,55.0,M,Permanent Home
+2031,861464,55.0,M,Permanent Home
+2032,862270,57.0,F,Vehicle/Towed Trailer
+2033,865249,34.0,M,Outside/Open Areas
+2034,848846,25.0,M,In Water
+2035,852617,3.0,M,Vehicle/Towed Trailer
+2036,855382,55.0,M,Outside/Open Areas
+2037,856108,16.0,M,In Water
+2038,856779,24.0,M,Vehicle/Towed Trailer
+2039,857053,68.0,M,Boating
+2040,857170,12.0,M,Under Tree
+2041,857268,3.0,F,Vehicle/Towed Trailer
+2042,857268,3.0,F,Vehicle/Towed Trailer
+2043,857924,,M,In Water
+2044,858108,,M,Vehicle/Towed Trailer
+2045,858351,,,Vehicle/Towed Trailer
+2046,858355,33.0,M,Outside/Open Areas
+2047,858360,23.0,M,In Water
+2048,858968,55.0,M,Permanent Home
+2049,859730,62.0,M,In Water
+2050,867599,29.0,F,Vehicle/Towed Trailer
+2051,867599,34.0,M,Vehicle/Towed Trailer
+2052,868417,66.0,F,Vehicle/Towed Trailer
+2053,861465,55.0,M,Permanent Home
+2054,806480,,M,Outside/Open Areas
+2055,807386,,F,Mobile/Trailer Home
+2056,807853,14.0,M,In Water
+2057,808514,20.0,M,In Water
+2058,808706,18.0,M,In Water
+2059,809596,18.0,M,In Water
+2060,810666,,M,In Water
+2061,810946,17.0,F,In Water
+2062,812914,18.0,M,In Water
+2063,812917,44.0,M,In Water
+2064,812922,29.0,M,In Water
+2065,814016,64.0,M,Vehicle/Towed Trailer
+2066,818799,7.0,M,In Water
+2067,818799,3.0,F,In Water
+2068,818799,27.0,F,Vehicle/Towed Trailer
+2069,818978,73.0,M,Other
+2070,818978,70.0,M,Other
+2071,819348,9.0,M,In Water
+2072,801196,52.0,M,Vehicle/Towed Trailer
+2073,801550,53.0,M,Outside/Open Areas
+2074,801603,25.0,M,Outside/Open Areas
+2075,802414,28.0,M,Vehicle/Towed Trailer
+2076,802871,51.0,M,Outside/Open Areas
+2077,805599,,M,Boating
+2078,807189,59.0,M,Vehicle/Towed Trailer
+2079,808622,60.0,M,In Water
+2080,811033,27.0,F,Vehicle/Towed Trailer
+2081,813465,37.0,M,Vehicle/Towed Trailer
+2082,813640,59.0,F,Mobile/Trailer Home
+2083,813640,68.0,F,Mobile/Trailer Home
+2084,813640,69.0,F,Mobile/Trailer Home
+2085,813640,63.0,M,Mobile/Trailer Home
+2086,813640,62.0,F,Mobile/Trailer Home
+2087,813640,65.0,M,Mobile/Trailer Home
+2088,813640,63.0,F,Mobile/Trailer Home
+2089,813640,38.0,M,Mobile/Trailer Home
+2090,813640,86.0,M,Mobile/Trailer Home
+2091,813640,59.0,M,Mobile/Trailer Home
+2092,813640,59.0,F,Mobile/Trailer Home
+2093,813640,10.0,M,Mobile/Trailer Home
+2094,813640,53.0,M,Mobile/Trailer Home
+2095,813640,41.0,F,Mobile/Trailer Home
+2096,813640,6.0,M,Mobile/Trailer Home
+2097,813640,22.0,F,Mobile/Trailer Home
+2098,813640,22.0,M,Mobile/Trailer Home
+2099,813640,9.0,M,Mobile/Trailer Home
+2100,813640,8.0,F,Mobile/Trailer Home
+2101,813640,57.0,F,Permanent Home
+2102,813640,89.0,M,Permanent Home
+2103,813640,53.0,M,Permanent Home
+2104,813640,83.0,F,Permanent Home
+2105,814646,63.0,M,Outside/Open Areas
+2106,814646,69.0,M,Permanent Home
+2107,814656,62.0,M,Outside/Open Areas
+2108,814656,44.0,M,Outside/Open Areas
+2109,815401,68.0,M,Outside/Open Areas
+2110,815401,50.0,F,Permanent Home
+2111,815401,55.0,M,Permanent Home
+2112,815435,74.0,F,Outside/Open Areas
+2113,818414,39.0,M,Outside/Open Areas
+2114,820037,78.0,F,Permanent Home
+2115,820547,8.0,F,Permanent Home
+2116,820642,62.0,M,Outside/Open Areas
+2117,822066,40.0,F,In Water
+2118,822093,28.0,M,Other
+2119,822242,58.0,F,Mobile/Trailer Home
+2120,822242,83.0,F,Mobile/Trailer Home
+2121,822368,55.0,M,Vehicle/Towed Trailer
+2122,822735,25.0,M,Vehicle/Towed Trailer
+2123,821439,1.0,M,Vehicle/Towed Trailer
+2124,828197,56.0,F,Mobile/Trailer Home
+2125,828197,86.0,M,Permanent Home
+2126,828197,83.0,F,Permanent Home
+2127,828322,46.0,M,Vehicle/Towed Trailer
+2128,828422,35.0,M,Boating
+2129,828422,23.0,M,Boating
+2130,831940,65.0,M,Vehicle/Towed Trailer
+2131,831940,60.0,F,Vehicle/Towed Trailer
+2132,832504,22.0,M,Vehicle/Towed Trailer
+2133,836001,23.0,F,Boating
+2134,839347,1.0,F,Vehicle/Towed Trailer
+2135,849193,65.0,M,Boating
+2136,856471,19.0,M,In Water
+2137,856471,52.0,M,Vehicle/Towed Trailer
+2138,856827,61.0,M,In Water
+2139,856828,75.0,M,In Water
+2140,856829,58.0,M,In Water
+2141,858274,41.0,M,In Water
+2142,861408,17.0,M,Vehicle/Towed Trailer
+2143,833185,2.0,F,Vehicle/Towed Trailer
+2144,835892,38.0,M,In Water
+2145,837669,28.0,M,Outside/Open Areas
+2146,842514,27.0,F,Under Tree
+2147,795760,25.0,M,Vehicle/Towed Trailer
+2148,795764,19.0,F,Vehicle/Towed Trailer
+2149,801872,32.0,F,Vehicle/Towed Trailer
+2150,801882,53.0,F,Vehicle/Towed Trailer
+2151,801882,14.0,F,Vehicle/Towed Trailer
+2152,801898,19.0,F,Vehicle/Towed Trailer
+2153,801733,22.0,M,Vehicle/Towed Trailer
+2154,804082,35.0,F,Vehicle/Towed Trailer
+2155,804082,35.0,M,Vehicle/Towed Trailer
+2156,804082,10.0,F,Vehicle/Towed Trailer
+2157,804387,65.0,M,Permanent Home
+2158,804387,48.0,F,Outside/Open Areas
+2159,804387,59.0,M,Outside/Open Areas
+2160,804388,60.0,F,Permanent Home
+2161,804863,64.0,M,In Water
+2162,805136,,,Permanent Home
+2163,805136,,,Permanent Home
+2164,842514,55.0,F,Under Tree
+2165,843572,28.0,M,In Water
+2166,843786,,F,Outside/Open Areas
+2167,844340,55.0,M,Vehicle/Towed Trailer
+2168,845911,33.0,M,Boating
+2169,845911,38.0,M,Boating
+2170,847980,17.0,M,In Water
+2171,847980,16.0,M,In Water
+2172,847983,35.0,M,In Water
+2173,849047,32.0,M,Outside/Open Areas
+2174,850143,47.0,F,Vehicle/Towed Trailer
+2175,852807,1.0,M,Vehicle/Towed Trailer
+2176,854530,42.0,M,In Water
+2177,863509,23.0,M,In Water
+2178,863859,55.0,M,Heavy Equipment/Construction
+2179,841889,3.0,F,Vehicle/Towed Trailer
+2180,849021,,,Vehicle/Towed Trailer
+2181,869336,45.0,M,Outside/Open Areas
+2182,810094,13.0,M,In Water
+2183,811397,,,Outside/Open Areas
+2184,813767,8.0,M,Vehicle/Towed Trailer
+2185,813767,3.0,M,Vehicle/Towed Trailer
+2186,813825,58.0,M,In Water
+2187,815582,35.0,F,Permanent Home
+2188,815582,14.0,M,Permanent Home
+2189,816788,76.0,M,Vehicle/Towed Trailer
+2190,817354,97.0,M,Outside/Open Areas
+2191,817782,59.0,M,Camping
+2192,826570,36.0,M,Outside/Open Areas
+2193,836420,80.0,F,Vehicle/Towed Trailer
+2194,845854,81.0,M,Vehicle/Towed Trailer
+2195,837611,38.0,F,Outside/Open Areas
+2196,859545,11.0,M,Outside/Open Areas
+2197,870174,20.0,F,Vehicle/Towed Trailer
+2198,923398,,,Unknown
+2199,923398,,,Unknown
+2200,923398,,,Unknown
+2201,923398,,,Unknown
+2202,923398,,,Unknown
+2203,923399,,,Unknown
+2204,923397,,,Unknown
+2205,923438,,,Unknown
+2206,923439,,,Unknown
+2207,923440,,,Unknown
+2208,865237,35.0,M,Mobile/Trailer Home
+2209,865237,34.0,F,Mobile/Trailer Home
+2210,809658,25.0,M,Vehicle/Towed Trailer
+2211,860583,54.0,F,Vehicle/Towed Trailer
+2212,860583,24.0,M,Vehicle/Towed Trailer
+2213,893044,17.0,M,In Water
+2214,893049,16.0,M,Unknown
+2215,802480,,,Vehicle/Towed Trailer
+2216,802481,50.0,M,Boating
+2217,802481,48.0,M,Boating
+2218,802481,50.0,M,Boating
+2219,827409,86.0,F,Permanent Home
+2220,857862,50.0,F,Mobile/Trailer Home
+2221,858116,56.0,M,Vehicle/Towed Trailer
+2222,863855,15.0,M,Vehicle/Towed Trailer
+2223,868057,37.0,M,Vehicle/Towed Trailer
+2224,869176,52.0,M,In Water
+2225,869769,32.0,M,In Water
+2226,835579,20.0,M,Vehicle/Towed Trailer
+2227,835579,19.0,F,Vehicle/Towed Trailer
+2228,916380,,,Unknown
+2229,916381,,,Unknown
+2230,826139,31.0,F,Vehicle/Towed Trailer
+2231,826139,9.0,M,Vehicle/Towed Trailer
+2232,826922,53.0,M,In Water
+2233,826922,39.0,M,In Water
+2234,827623,,M,Permanent Home
+2235,828639,65.0,M,Boating
+2236,829416,32.0,M,Outside/Open Areas
+2237,830279,19.0,F,In Water
+2238,831164,59.0,M,Boating
+2239,832228,40.0,M,In Water
+2240,832259,73.0,M,Unknown
+2241,832259,73.0,F,Unknown
+2242,837602,77.0,F,Unknown
+2243,837602,55.0,M,Unknown
+2244,837602,60.0,M,Outside/Open Areas
+2245,837602,71.0,M,Outside/Open Areas
+2246,837602,62.0,M,Outside/Open Areas
+2247,837602,39.0,M,Outside/Open Areas
+2248,837602,64.0,M,Outside/Open Areas
+2249,837602,73.0,M,Permanent Home
+2250,837604,40.0,M,Unknown
+2251,837604,69.0,M,Outside/Open Areas
+2252,837604,70.0,M,Permanent Home
+2253,837612,69.0,M,Unknown
+2254,837612,51.0,M,Outside/Open Areas
+2255,837612,65.0,M,Permanent Home
+2256,837688,52.0,F,Outside/Open Areas
+2257,839581,76.0,M,Outside/Open Areas
+2258,839729,71.0,M,Unknown
+2259,839732,82.0,M,Permanent Structure
+2260,840991,,M,Under Tree
+2261,842990,32.0,F,Outside/Open Areas
+2262,843034,65.0,M,Unknown
+2263,843570,61.0,M,In Water
+2264,843571,67.0,M,In Water
+2265,843943,35.0,M,Vehicle/Towed Trailer
+2266,844245,,M,Under Tree
+2267,845845,44.0,M,Under Tree
+2268,846215,77.0,M,Vehicle/Towed Trailer
+2269,846233,20.0,F,Outside/Open Areas
+2270,846382,32.0,M,Outside/Open Areas
+2271,846438,46.0,F,Vehicle/Towed Trailer
+2272,846492,66.0,M,Vehicle/Towed Trailer
+2273,846511,81.0,M,Outside/Open Areas
+2274,846517,61.0,F,Permanent Home
+2275,846821,18.0,M,Ball Field
+2276,846896,26.0,M,Vehicle/Towed Trailer
+2277,846958,3.0,M,Vehicle/Towed Trailer
+2278,846988,18.0,M,In Water
+2279,847952,22.0,M,Outside/Open Areas
+2280,847952,42.0,M,Outside/Open Areas
+2281,849401,9.0,F,Outside/Open Areas
+2282,791368,,,Outside/Open Areas
+2283,791368,,,Vehicle/Towed Trailer
+2284,791649,,,Vehicle/Towed Trailer
+2285,792214,40.0,M,Outside/Open Areas
+2286,792656,65.0,M,Vehicle/Towed Trailer
+2287,792690,50.0,M,Vehicle/Towed Trailer
+2288,793101,73.0,M,Vehicle/Towed Trailer
+2289,793453,34.0,F,Vehicle/Towed Trailer
+2290,793953,52.0,M,Outside/Open Areas
+2291,794220,26.0,M,Outside/Open Areas
+2292,794220,22.0,M,Outside/Open Areas
+2293,794267,39.0,M,Outside/Open Areas
+2294,794275,50.0,M,Outside/Open Areas
+2295,794653,69.0,M,Outside/Open Areas
+2296,795687,64.0,M,Vehicle/Towed Trailer
+2297,795729,19.0,F,Vehicle/Towed Trailer
+2298,795729,21.0,M,Vehicle/Towed Trailer
+2299,795577,7.0,F,Vehicle/Towed Trailer
+2300,795576,85.0,F,Vehicle/Towed Trailer
+2301,797000,,M,Vehicle/Towed Trailer
+2302,794955,28.0,M,Outside/Open Areas
+2303,795005,22.0,M,Outside/Open Areas
+2304,795005,21.0,F,Outside/Open Areas
+2305,795342,,,Under Tree
+2306,795779,70.0,M,Outside/Open Areas
+2307,795779,75.0,M,Outside/Open Areas
+2308,796115,52.0,M,In Water
+2309,796116,52.0,M,In Water
+2310,796117,52.0,M,In Water
+2311,796118,52.0,M,In Water
+2312,796277,32.0,M,Vehicle/Towed Trailer
+2313,796413,,M,In Water
+2314,797311,63.0,M,Outside/Open Areas
+2315,797341,18.0,M,In Water
+2316,797421,,M,Outside/Open Areas
+2317,797452,25.0,M,Vehicle/Towed Trailer
+2318,797455,52.0,M,Outside/Open Areas
+2319,797560,45.0,F,Vehicle/Towed Trailer
+2320,797640,62.0,F,Vehicle/Towed Trailer
+2321,797646,82.0,M,Outside/Open Areas
+2322,798982,71.0,F,Outside/Open Areas
+2323,800125,46.0,F,Outside/Open Areas
+2324,800956,22.0,M,Outside/Open Areas
+2325,802239,74.0,M,Vehicle/Towed Trailer
+2326,802250,35.0,M,Outside/Open Areas
+2327,802738,75.0,M,Outside/Open Areas
+2328,802751,29.0,M,Outside/Open Areas
+2329,803882,75.0,M,Outside/Open Areas
+2330,804274,,M,Outside/Open Areas
+2331,804274,78.0,F,Vehicle/Towed Trailer
+2332,804444,,,Vehicle/Towed Trailer
+2333,804444,,,Vehicle/Towed Trailer
+2334,804444,,,Vehicle/Towed Trailer
+2335,804490,69.0,M,Outside/Open Areas
+2336,804570,58.0,F,Outside/Open Areas
+2337,804847,18.0,M,Outside/Open Areas
+2338,804848,72.0,M,Outside/Open Areas
+2339,804848,67.0,M,Outside/Open Areas
+2340,804852,18.0,M,Outside/Open Areas
+2341,797147,54.0,M,Vehicle/Towed Trailer
+2342,797507,50.0,M,In Water
+2343,797507,15.0,F,In Water
+2344,797507,13.0,F,In Water
+2345,797647,72.0,F,Permanent Structure
+2346,797740,74.0,F,Vehicle/Towed Trailer
+2347,798371,47.0,M,Outside/Open Areas
+2348,798364,27.0,M,Outside/Open Areas
+2349,798364,37.0,M,Outside/Open Areas
+2350,802037,84.0,M,Vehicle/Towed Trailer
+2351,803312,52.0,F,Under Tree
+2352,804275,22.0,F,Outside/Open Areas
+2353,804812,60.0,M,Vehicle/Towed Trailer
+2354,804812,58.0,M,In Water
+2355,805364,30.0,M,Vehicle/Towed Trailer
+2356,805386,76.0,M,Vehicle/Towed Trailer
+2357,805402,51.0,M,Outside/Open Areas
+2358,805460,53.0,M,Outside/Open Areas
+2359,806035,58.0,M,Vehicle/Towed Trailer
+2360,797540,,M,Outside/Open Areas
+2361,797540,,F,Outside/Open Areas
+2362,807040,35.0,M,In Water
+2363,808779,46.0,M,Outside/Open Areas
+2364,808917,29.0,M,Vehicle/Towed Trailer
+2365,809516,30.0,M,Outside/Open Areas
+2366,798141,,F,Vehicle/Towed Trailer
+2367,810660,32.0,M,Vehicle/Towed Trailer
+2368,810660,31.0,F,Vehicle/Towed Trailer
+2369,812906,18.0,M,Vehicle/Towed Trailer
+2370,799239,41.0,F,Permanent Structure
+2371,799239,77.0,M,Permanent Structure
+2372,814521,74.0,F,Permanent Home
+2373,815468,95.0,M,Mobile/Trailer Home
+2374,816590,15.0,M,Boating
+2375,823979,28.0,M,In Water
+2376,824125,79.0,M,Outside/Open Areas
+2377,826399,57.0,M,Vehicle/Towed Trailer
+2378,828980,57.0,M,Outside/Open Areas
+2379,830307,54.0,M,Mobile/Trailer Home
+2380,830307,47.0,F,Mobile/Trailer Home
+2381,830720,53.0,F,Vehicle/Towed Trailer
+2382,830730,76.0,F,Vehicle/Towed Trailer
+2383,809877,27.0,M,Vehicle/Towed Trailer
+2384,810291,25.0,M,Vehicle/Towed Trailer
+2385,832451,47.0,M,Other
+2386,813918,30.0,M,Vehicle/Towed Trailer
+2387,813962,50.0,M,Heavy Equipment/Construction
+2388,813963,80.0,F,Permanent Home
+2389,813990,55.0,M,Vehicle/Towed Trailer
+2390,814199,53.0,M,In Water
+2391,819544,,M,Vehicle/Towed Trailer
+2392,820917,37.0,M,Vehicle/Towed Trailer
+2393,821108,49.0,M,In Water
+2394,821122,59.0,M,Outside/Open Areas
+2395,866592,21.0,F,Vehicle/Towed Trailer
+2396,823196,60.0,M,In Water
+2397,831194,30.0,M,In Water
+2398,831194,,M,In Water
+2399,844277,18.0,M,Under Tree
+2400,844277,18.0,F,Under Tree
+2401,846067,,M,In Water
+2402,848643,64.0,M,Vehicle/Towed Trailer
+2403,850181,43.0,M,In Water
+2404,854522,,,Vehicle/Towed Trailer
+2405,854867,48.0,F,Mobile/Trailer Home
+2406,854922,38.0,F,Vehicle/Towed Trailer
+2407,855017,56.0,F,Vehicle/Towed Trailer
+2408,856181,,F,Camping
+2409,856591,24.0,F,In Water
+2410,857400,27.0,M,In Water
+2411,858302,66.0,M,Permanent Home
+2412,858580,44.0,M,Outside/Open Areas
+2413,859301,38.0,M,In Water
+2414,859729,50.0,M,In Water
+2415,861536,,,Mobile/Trailer Home
+2416,861536,,,Mobile/Trailer Home
+2417,891279,16.0,M,In Water
+2418,897962,44.0,M,Boating
+2419,897962,57.0,M,Boating
+2420,897962,59.0,M,Boating
+2421,871629,51.0,M,Mobile/Trailer Home
+2422,871629,85.0,M,Mobile/Trailer Home
+2423,883722,,F,Outside/Open Areas
+2424,877285,80.0,F,Vehicle/Towed Trailer
+2425,871629,75.0,F,Mobile/Trailer Home
+2426,881954,,,Unknown
+2427,889030,29.0,M,Unknown
+2428,889030,27.0,F,Unknown
+2429,889030,,M,Unknown
+2430,878237,54.0,F,Mobile/Trailer Home
+2431,879197,,F,In Water
+2432,879197,17.0,M,In Water
+2433,917518,81.0,F,Permanent Home
+2434,917518,72.0,M,Permanent Home
+2435,923091,43.0,M,Boating
+2436,901386,34.0,M,Outside/Open Areas
+2437,923091,60.0,M,Boating
+2438,923169,,,Vehicle/Towed Trailer
+2439,909156,38.0,M,In Water
+2440,917518,31.0,M,Permanent Home
+2441,917518,84.0,M,Permanent Home
+2442,917518,49.0,M,Permanent Home
+2443,917518,59.0,M,Under Tree
+2444,917518,29.0,M,Vehicle/Towed Trailer
+2445,917655,54.0,F,In Water
+2446,917670,61.0,M,Outside/Open Areas
+2447,917682,52.0,M,Other
+2448,924168,51.0,M,Vehicle/Towed Trailer
+2449,924366,4.0,F,In Water
+2450,918078,36.0,M,Outside/Open Areas
+2451,918078,80.0,M,Permanent Home
+2452,918079,14.0,F,Permanent Home
+2453,918080,64.0,F,Permanent Home
+2454,918080,84.0,M,Permanent Home
+2455,918080,80.0,F,Permanent Home
+2456,918081,68.0,M,Permanent Home
+2457,918083,49.0,M,Mobile/Trailer Home
+2458,918083,67.0,M,Permanent Home
+2459,918083,50.0,M,Permanent Home
+2460,924367,,,In Water
+2461,918105,60.0,M,Permanent Structure
+2462,918105,53.0,M,Permanent Structure
+2463,918105,,M,Permanent Structure
+2464,918105,,,Permanent Structure
+2465,918105,,,Permanent Structure
+2466,918460,60.0,F,Permanent Home
+2467,918700,,,Vehicle/Towed Trailer
+2468,918810,,M,Outside/Open Areas
+2469,918812,69.0,M,Outside/Open Areas
+2470,924641,50.0,M,Vehicle/Towed Trailer
+2471,925309,,M,Permanent Home
+2472,928547,18.0,F,Vehicle/Towed Trailer
+2473,919148,82.0,M,Permanent Home
+2474,919149,64.0,M,Permanent Home
+2475,928551,6.0,,Vehicle/Towed Trailer
+2476,928557,34.0,M,Vehicle/Towed Trailer
+2477,928557,33.0,F,Vehicle/Towed Trailer
+2478,928567,21.0,M,Vehicle/Towed Trailer
+2479,928610,27.0,M,Vehicle/Towed Trailer
+2480,928624,55.0,M,Vehicle/Towed Trailer
+2481,928624,43.0,M,Vehicle/Towed Trailer
+2482,928677,,M,Permanent Home
+2483,928851,68.0,M,Vehicle/Towed Trailer
+2484,928921,70.0,M,Vehicle/Towed Trailer
+2485,928921,72.0,M,Vehicle/Towed Trailer
+2486,919297,51.0,M,Mobile/Trailer Home
+2487,919334,41.0,F,Permanent Home
+2488,919340,41.0,M,Outside/Open Areas
+2489,919557,56.0,M,Permanent Home
+2490,909473,16.0,M,In Water
+2491,909474,57.0,M,In Water
+2492,909475,,,Unknown
+2493,909610,,,Unknown
+2494,909610,,,Unknown
+2495,877114,27.0,M,Vehicle/Towed Trailer
+2496,877048,30.0,M,Outside/Open Areas
+2497,877419,60.0,M,Outside/Open Areas
+2498,880057,48.0,M,In Water
+2499,879418,1.0,M,Vehicle/Towed Trailer
+2500,879418,2.0,M,Vehicle/Towed Trailer
+2501,879418,4.0,F,Vehicle/Towed Trailer
+2502,879418,6.0,F,Vehicle/Towed Trailer
+2503,879418,12.0,F,Vehicle/Towed Trailer
+2504,881161,44.0,M,Under Tree
+2505,882493,62.0,M,Permanent Structure
+2506,884080,32.0,M,Vehicle/Towed Trailer
+2507,886389,80.0,M,Outside/Open Areas
+2508,884482,42.0,M,Vehicle/Towed Trailer
+2509,887797,82.0,M,Vehicle/Towed Trailer
+2510,887943,61.0,F,Mobile/Trailer Home
+2511,889119,61.0,M,Outside/Open Areas
+2512,889259,59.0,F,Mobile/Trailer Home
+2513,889259,20.0,F,Mobile/Trailer Home
+2514,889259,63.0,F,Mobile/Trailer Home
+2515,889259,50.0,M,Mobile/Trailer Home
+2516,889259,79.0,M,Mobile/Trailer Home
+2517,889259,75.0,F,Mobile/Trailer Home
+2518,889259,48.0,M,Mobile/Trailer Home
+2519,889259,57.0,M,Mobile/Trailer Home
+2520,889288,34.0,M,Permanent Home
+2521,886100,77.0,M,Long Span Roof
+2522,887044,,,Unknown
+2523,890139,28.0,M,Outside/Open Areas
+2524,890140,46.0,M,Outside/Open Areas
+2525,890149,33.0,F,In Water
+2526,890571,,M,Mobile/Trailer Home
+2527,890609,29.0,M,Permanent Home
+2528,876337,46.0,M,Mobile/Trailer Home
+2529,876337,4.0,M,Permanent Home
+2530,890717,57.0,M,Vehicle/Towed Trailer
+2531,890652,46.0,M,Vehicle/Towed Trailer
+2532,890652,46.0,M,Outside/Open Areas
+2533,880478,71.0,F,Permanent Structure
+2534,881748,18.0,M,In Water
+2535,881749,19.0,M,In Water
+2536,882294,46.0,F,Vehicle/Towed Trailer
+2537,882377,62.0,M,In Water
+2538,883052,74.0,F,Outside/Open Areas
+2539,884487,,M,In Water
+2540,884489,31.0,M,In Water
+2541,886295,41.0,M,Heavy Equipment/Construction
+2542,887620,,,Outside/Open Areas
+2543,888186,,M,Vehicle/Towed Trailer
+2544,888317,57.0,M,Vehicle/Towed Trailer
+2545,889249,29.0,M,In Water
+2546,892202,73.0,M,Outside/Open Areas
+2547,892243,29.0,M,In Water
+2548,892502,3.0,F,In Water
+2549,892502,7.0,F,In Water
+2550,892770,18.0,F,In Water
+2551,893920,20.0,M,Mobile/Trailer Home
+2552,894099,43.0,M,In Water
+2553,894576,17.0,M,In Water
+2554,895063,32.0,M,Outside/Open Areas
+2555,895549,26.0,F,Mobile/Trailer Home
+2556,895786,51.0,M,Outside/Open Areas
+2557,895889,21.0,M,Outside/Open Areas
+2558,896679,,M,Permanent Home
+2559,897267,34.0,M,Outside/Open Areas
+2560,897450,47.0,M,In Water
+2561,898115,24.0,M,In Water
+2562,898115,,M,In Water
+2563,898115,,M,In Water
+2564,899873,24.0,M,In Water
+2565,884311,61.0,M,Boating
+2566,885500,38.0,M,Permanent Structure
+2567,885505,49.0,F,Vehicle/Towed Trailer
+2568,885507,,M,Vehicle/Towed Trailer
+2569,885522,,M,Permanent Home
+2570,886010,65.0,F,Outside/Open Areas
+2571,901229,50.0,M,In Water
+2572,901229,14.0,M,In Water
+2573,906012,,M,In Water
+2574,891933,70.0,M,Outside/Open Areas
+2575,891995,,F,Unknown
+2576,891995,,M,Unknown
+2577,892093,31.0,M,In Water
+2578,892334,3.0,M,In Water
+2579,894477,18.0,M,In Water
+2580,898393,,M,Unknown
+2581,898393,,M,Unknown
+2582,899310,4.0,F,Vehicle/Towed Trailer
+2583,899310,3.0,M,Vehicle/Towed Trailer
+2584,900616,47.0,M,Mobile/Trailer Home
+2585,903372,,,Permanent Home
+2586,903730,25.0,M,In Water
+2587,903730,53.0,M,In Water
+2588,903730,71.0,M,In Water
+2589,903916,64.0,F,Boating
+2590,908492,70.0,M,Unknown
+2591,908796,54.0,M,Mobile/Trailer Home
+2592,906034,,,Boating
+2593,906080,26.0,M,In Water
+2594,909838,60.0,M,Boating
+2595,909838,50.0,M,Boating
+2596,908916,15.0,M,In Water
+2597,911404,52.0,M,Outside/Open Areas
+2598,912887,70.0,F,Permanent Home
+2599,912887,,M,Permanent Home
+2600,912887,,M,Permanent Home
+2601,915468,12.0,M,In Water
+2602,915489,59.0,M,Outside/Open Areas
+2603,915720,73.0,M,Vehicle/Towed Trailer
+2604,915914,16.0,M,In Water
+2605,915914,18.0,M,In Water
+2606,915918,21.0,M,In Water
+2607,916103,63.0,M,Outside/Open Areas
+2608,917285,4.0,M,Vehicle/Towed Trailer
+2609,917518,,M,Boating
+2610,917518,22.0,M,Heavy Equipment/Construction
+2611,917518,57.0,M,Outside/Open Areas
+2612,917518,24.0,M,Permanent Home
+2613,917518,54.0,F,Permanent Home
+2614,917518,61.0,M,Permanent Home
+2615,871648,17.0,M,Outside/Open Areas
+2616,873985,17.0,M,Vehicle/Towed Trailer
+2617,879223,23.0,F,Vehicle/Towed Trailer
+2618,879632,36.0,M,Outside/Open Areas
+2619,880581,30.0,M,Vehicle/Towed Trailer
+2620,873165,14.0,F,Vehicle/Towed Trailer
+2621,880568,63.0,M,Vehicle/Towed Trailer
+2622,881590,60.0,M,Outside/Open Areas
+2623,879382,38.0,M,In Water
+2624,882846,35.0,F,Vehicle/Towed Trailer
+2625,882919,25.0,F,Vehicle/Towed Trailer
+2626,882919,11.0,F,Vehicle/Towed Trailer
+2627,883022,68.0,F,In Water
+2628,900079,,,Unknown
+2629,912411,24.0,M,Outside/Open Areas
+2630,912417,30.0,M,Outside/Open Areas
+2631,912418,19.0,M,Outside/Open Areas
+2632,912438,30.0,M,Outside/Open Areas
+2633,912439,19.0,M,Outside/Open Areas
+2634,912444,19.0,M,Outside/Open Areas
+2635,912466,16.0,M,Outside/Open Areas
+2636,912467,23.0,M,Outside/Open Areas
+2637,912468,43.0,M,Outside/Open Areas
+2638,912469,,M,Outside/Open Areas
+2639,912481,24.0,M,Outside/Open Areas
+2640,912481,30.0,M,Outside/Open Areas
+2641,912685,34.0,F,Outside/Open Areas
+2642,913363,54.0,M,Unknown
+2643,914182,82.0,M,Outside/Open Areas
+2644,914182,34.0,F,Permanent Home
+2645,914182,33.0,M,Permanent Home
+2646,914182,17.0,F,Permanent Home
+2647,914182,11.0,M,Permanent Home
+2648,914929,28.0,M,Under Tree
+2649,917804,47.0,M,Boating
+2650,898441,,M,In Water
+2651,917271,30.0,M,Permanent Home
+2652,917275,71.0,F,Outside/Open Areas
+2653,916399,76.0,M,In Water
+2654,919167,24.0,M,Outside/Open Areas
+2655,919146,22.0,M,Outside/Open Areas
+2656,919146,28.0,M,Outside/Open Areas
+2657,919147,32.0,M,Outside/Open Areas
+2658,919158,45.0,M,Outside/Open Areas
+2659,919182,33.0,M,Outside/Open Areas
+2660,919180,40.0,M,Outside/Open Areas
+2661,919177,36.0,M,Outside/Open Areas
+2662,919176,26.0,M,Outside/Open Areas
+2663,919176,32.0,M,Outside/Open Areas
+2664,919178,20.0,M,Outside/Open Areas
+2665,919161,21.0,M,Outside/Open Areas
+2666,919162,36.0,M,Outside/Open Areas
+2667,880988,47.0,F,Mobile/Trailer Home
+2668,922401,77.0,M,Outside/Open Areas
+2669,922401,42.0,M,Outside/Open Areas
+2670,899721,71.0,M,Mobile/Trailer Home
+2671,902815,60.0,M,Mobile/Trailer Home
+2672,902815,55.0,F,Mobile/Trailer Home
+2673,902843,81.0,F,Permanent Home
+2674,902843,42.0,F,Mobile/Trailer Home
+2675,902843,66.0,F,Unknown
+2676,902843,,M,Unknown
+2677,889068,56.0,M,Mobile/Trailer Home
+2678,889068,56.0,F,Mobile/Trailer Home
+2679,889068,26.0,F,Mobile/Trailer Home
+2680,889068,41.0,M,Mobile/Trailer Home
+2681,889068,25.0,M,Mobile/Trailer Home
+2682,888955,46.0,F,Permanent Home
+2683,924716,58.0,M,Under Tree
+2684,902831,44.0,F,Business
+2685,902831,64.0,F,Business
+2686,902831,61.0,M,Business
+2687,902831,46.0,M,Business
+2688,919227,49.0,M,Vehicle/Towed Trailer
+2689,887908,,,Unknown
+2690,887908,,,Unknown
+2691,920521,71.0,M,Vehicle/Towed Trailer
+2692,920521,62.0,M,Vehicle/Towed Trailer
+2693,928259,5.0,F,Outside/Open Areas
+2694,928258,44.0,F,Unknown
+2695,883908,35.0,M,Other
+2696,929692,63.0,F,Outside/Open Areas
+2697,929974,7.0,M,In Water
+2698,930588,49.0,F,Camping
+2699,930588,18.0,M,Camping
+2700,930588,52.0,F,Camping
+2701,930588,76.0,M,Camping
+2702,930588,1.0,M,Camping
+2703,930828,64.0,M,Vehicle/Towed Trailer
+2704,930882,23.0,M,Vehicle/Towed Trailer
+2705,930946,61.0,M,Unknown
+2706,930946,18.0,M,Unknown
+2707,930946,20.0,F,Unknown
+2708,930946,19.0,F,Unknown
+2709,930946,19.0,M,Unknown
+2710,932473,,,Unknown
+2711,910956,50.0,F,In Water
+2712,913350,62.0,M,Mobile/Trailer Home
+2713,913350,52.0,F,Mobile/Trailer Home
+2714,921694,61.0,M,Outside/Open Areas
+2715,877756,43.0,F,Vehicle/Towed Trailer
+2716,889692,27.0,M,Outside/Open Areas
+2717,897699,,M,Under Tree
+2718,907203,4.0,M,Vehicle/Towed Trailer
+2719,915588,51.0,F,Outside/Open Areas
+2720,915780,73.0,M,Vehicle/Towed Trailer
+2721,917898,23.0,M,In Water
+2722,918104,24.0,M,Other
+2723,917811,18.0,F,In Water
+2724,917888,,M,Under Tree
+2725,919724,74.0,M,Mobile/Trailer Home
+2726,912087,16.0,M,Under Tree
+2727,884164,63.0,M,Mobile/Trailer Home
+2728,884164,68.0,F,Mobile/Trailer Home
+2729,921886,36.0,F,In Water
+2730,897946,44.0,M,In Water
+2731,897946,24.0,M,In Water
+2732,897946,13.0,F,In Water
+2733,923901,60.0,M,Under Tree
+2734,923902,60.0,M,Under Tree
+2735,923903,60.0,M,Under Tree
+2736,923904,60.0,M,Under Tree
+2737,923905,60.0,M,Under Tree
+2738,923906,60.0,M,Under Tree
+2739,917890,60.0,M,Under Tree
+2740,863829,63.0,F,Permanent Home
+2741,863926,,M,Vehicle/Towed Trailer
+2742,865048,,M,Vehicle/Towed Trailer
+2743,865786,,M,Vehicle/Towed Trailer
+2744,865838,39.0,M,Outside/Open Areas
+2745,865838,27.0,M,Outside/Open Areas
+2746,866243,44.0,F,Outside/Open Areas
+2747,866540,44.0,M,Mobile/Trailer Home
+2748,866671,75.0,M,Permanent Home
+2749,866919,26.0,M,Outside/Open Areas
+2750,866919,24.0,M,Outside/Open Areas
+2751,866960,79.0,M,Mobile/Trailer Home
+2752,866960,65.0,F,Mobile/Trailer Home
+2753,866960,87.0,M,Mobile/Trailer Home
+2754,867068,28.0,F,Vehicle/Towed Trailer
+2755,867068,59.0,M,Vehicle/Towed Trailer
+2756,867124,58.0,M,Vehicle/Towed Trailer
+2757,867163,14.0,M,Vehicle/Towed Trailer
+2758,868181,62.0,M,Vehicle/Towed Trailer
+2759,868181,16.0,M,Vehicle/Towed Trailer
+2760,869337,18.0,M,Outside/Open Areas
+2761,870754,58.0,M,Outside/Open Areas
+2762,870754,46.0,M,Outside/Open Areas
+2763,870754,33.0,F,Outside/Open Areas
+2764,870889,18.0,F,Outside/Open Areas
+2765,871138,46.0,F,Outside/Open Areas
+2766,871694,,,Vehicle/Towed Trailer
+2767,872110,80.0,F,Permanent Home
+2768,872351,60.0,M,Vehicle/Towed Trailer
+2769,872628,53.0,F,Vehicle/Towed Trailer
+2770,873666,,,School
+2771,873666,,,School
+2772,873666,,,School
+2773,873776,50.0,M,Vehicle/Towed Trailer
+2774,873932,,M,Vehicle/Towed Trailer
+2775,873932,,F,Vehicle/Towed Trailer
+2776,909610,55.0,M,Mobile/Trailer Home
+2777,920098,43.0,M,In Water
+2778,920098,,M,In Water
+2779,920824,1.0,M,Outside/Open Areas
+2780,920964,92.0,M,Permanent Home
+2781,920964,91.0,F,Permanent Home
+2782,921016,,M,Vehicle/Towed Trailer
+2783,921112,,M,In Water
+2784,921131,45.0,F,Vehicle/Towed Trailer
+2785,921131,27.0,M,Boating
+2786,921287,20.0,M,In Water
+2787,921360,6.0,M,In Water
+2788,921108,39.0,M,Under Tree
+2789,921108,,,Permanent Home
+2790,921883,,,Unknown
+2791,922114,22.0,F,In Water
+2792,922725,75.0,F,Unknown
+2793,922725,79.0,M,Unknown
+2794,922725,26.0,M,Unknown
+2795,922725,68.0,M,Unknown
+2796,922725,58.0,,Unknown
+2797,922725,77.0,,Unknown
+2798,922725,16.0,M,Unknown
+2799,922725,,,Unknown
+2800,922725,,,Unknown
+2801,922725,,,Unknown
+2802,922725,,,Unknown
+2803,922725,,,Unknown
+2804,922725,,,Unknown
+2805,922725,,,Unknown
+2806,922725,,,Unknown
+2807,922725,,,Unknown
+2808,923441,79.0,F,Unknown
+2809,923441,45.0,F,Unknown
+2810,923441,52.0,M,Permanent Structure
+2811,923441,8.0,F,Unknown
+2812,872994,48.0,M,Vehicle/Towed Trailer
+2813,872994,47.0,M,Vehicle/Towed Trailer
+2814,872994,35.0,F,Vehicle/Towed Trailer
+2815,872994,13.0,M,Vehicle/Towed Trailer
+2816,872994,7.0,F,Vehicle/Towed Trailer
+2817,872994,4.0,F,Vehicle/Towed Trailer
+2818,882999,36.0,M,Outside/Open Areas
+2819,882999,33.0,F,Outside/Open Areas
+2820,883007,84.0,M,Permanent Home
+2821,883007,81.0,F,Permanent Home
+2822,883007,38.0,F,Permanent Structure
+2823,883016,31.0,F,Permanent Home
+2824,883016,4.0,F,Permanent Home
+2825,883016,7.0,M,Mobile/Trailer Home
+2826,883016,54.0,M,Mobile/Trailer Home
+2827,883016,30.0,F,Permanent Home
+2828,883016,4.0,M,Permanent Home
+2829,883016,30.0,M,Permanent Home
+2830,883016,30.0,F,Permanent Home
+2831,883016,2.0,M,Permanent Home
+2832,883016,50.0,M,Permanent Home
+2833,883016,50.0,F,Permanent Home
+2834,883016,67.0,F,Permanent Structure
+2835,883016,28.0,F,Permanent Structure
+2836,883016,12.0,F,Permanent Home
+2837,883016,65.0,M,Mobile/Trailer Home
+2838,883016,63.0,F,Mobile/Trailer Home
+2839,883016,36.0,F,Permanent Home
+2840,883016,68.0,M,Permanent Home
+2841,883016,34.0,F,Mobile/Trailer Home
+2842,884340,,M,Boating
+2843,919374,28.0,F,Outside/Open Areas
+2844,919374,25.0,M,Outside/Open Areas
+2845,919384,31.0,M,Outside/Open Areas
+2846,919391,27.0,M,Outside/Open Areas
+2847,919391,47.0,M,Outside/Open Areas
+2848,922402,30.0,M,Outside/Open Areas
+2849,922403,22.0,M,Outside/Open Areas
+2850,922404,38.0,M,Outside/Open Areas
+2851,930283,79.0,M,Vehicle/Towed Trailer
+2852,873349,41.0,M,Outside/Open Areas
+2853,880546,67.0,M,Mobile/Trailer Home
+2854,888897,29.0,M,Vehicle/Towed Trailer
+2855,888897,40.0,M,Vehicle/Towed Trailer
+2856,890156,40.0,F,Mobile/Trailer Home
+2857,891063,70.0,M,In Water
+2858,906030,19.0,M,Outside/Open Areas
+2859,906033,24.0,M,Outside/Open Areas
+2860,912085,61.0,F,Unknown
+2861,914808,85.0,M,Vehicle/Towed Trailer
+2862,917688,27.0,M,Outside/Open Areas
+2863,919145,27.0,M,In Water
+2864,919814,47.0,M,In Water
+2865,919903,42.0,M,In Water
+2866,917686,75.0,M,Outside/Open Areas
+2867,920239,66.0,M,Vehicle/Towed Trailer
+2868,920645,18.0,F,Vehicle/Towed Trailer
+2869,919878,,M,Vehicle/Towed Trailer
+2870,919879,59.0,M,Other
+2871,922639,,M,In Water
+2872,923338,71.0,M,Golfing
+2873,923916,71.0,F,Vehicle/Towed Trailer
+2874,924048,22.0,M,Mobile/Trailer Home
+2875,924129,23.0,F,Permanent Home
+2876,924129,24.0,M,Permanent Home
+2877,924377,84.0,F,Outside/Open Areas
+2878,924576,60.0,M,In Water
+2879,924794,61.0,M,Outside/Open Areas
+2880,924794,39.0,M,Outside/Open Areas
+2881,924937,1.0,F,Vehicle/Towed Trailer
+2882,924944,,M,Outside/Open Areas
+2883,925737,,M,Outside/Open Areas
+2884,925852,,M,Outside/Open Areas
+2885,925853,,M,Outside/Open Areas
+2886,923474,86.0,M,Permanent Home
+2887,923474,84.0,F,Permanent Home
+2888,925293,,,Unknown
+2889,926246,,M,Outside/Open Areas
+2890,926247,58.0,M,In Water
+2891,923293,,M,Vehicle/Towed Trailer
+2892,924369,84.0,M,Vehicle/Towed Trailer
+2893,925936,70.0,F,Permanent Home
+2894,925936,73.0,M,Permanent Home
+2895,925952,86.0,M,Permanent Structure
+2896,925854,,,In Water
+2897,924694,80.0,F,Unknown
+2898,925037,67.0,M,Vehicle/Towed Trailer
+2899,923945,67.0,F,Outside/Open Areas
+2900,925141,40.0,M,Vehicle/Towed Trailer
+2901,925380,65.0,F,Vehicle/Towed Trailer
+2902,925612,82.0,M,Vehicle/Towed Trailer
+2903,925635,,,Vehicle/Towed Trailer
+2904,926661,57.0,M,Outside/Open Areas
+2905,926907,55.0,M,In Water
+2906,927849,,,In Water
+2907,931719,51.0,M,Outside/Open Areas
+2908,931719,55.0,M,Outside/Open Areas
+2909,931869,30.0,M,Permanent Home
+2910,931869,23.0,F,Permanent Home
+2911,932086,40.0,M,Vehicle/Towed Trailer
+2912,932193,62.0,M,Vehicle/Towed Trailer
+2913,933827,38.0,F,Outside/Open Areas
+2914,934575,,,Vehicle/Towed Trailer
+2915,934826,46.0,F,In Water
+2916,937315,36.0,M,In Water
+2917,910149,52.0,M,Camping
+2918,910149,41.0,F,Camping
+2919,921017,,F,In Water
+2920,921018,,M,In Water
+2921,922256,4.0,M,In Water
+2922,922256,5.0,F,In Water
+2923,922952,,,Other
+2924,922952,,,Other
+2925,922952,,,Other
+2926,922952,,,Other
+2927,922952,,,Other
+2928,929780,71.0,F,Outside/Open Areas
+2929,929780,41.0,M,Outside/Open Areas
+2930,929780,72.0,M,Permanent Home
+2931,929780,13.0,M,Vehicle/Towed Trailer
+2932,929780,71.0,F,Vehicle/Towed Trailer
+2933,929884,59.0,M,Permanent Home
+2934,930898,11.0,M,In Water
+2935,932331,20.0,M,Outside/Open Areas
+2936,932463,42.0,M,Outside/Open Areas
+2937,935707,60.0,F,In Water
+2938,921014,,M,Vehicle/Towed Trailer
+2939,867876,34.0,F,Vehicle/Towed Trailer
+2940,891663,9.0,F,Under Tree
+2941,867881,80.0,M,Vehicle/Towed Trailer
+2942,893619,26.0,M,In Water
+2943,868112,74.0,M,Vehicle/Towed Trailer
+2944,868267,32.0,F,Vehicle/Towed Trailer
+2945,868619,49.0,F,Vehicle/Towed Trailer
+2946,869330,65.0,M,Outside/Open Areas
+2947,869338,73.0,F,Permanent Home
+2948,869355,72.0,M,Outside/Open Areas
+2949,869390,73.0,M,Vehicle/Towed Trailer
+2950,869643,32.0,F,Vehicle/Towed Trailer
+2951,870187,44.0,M,In Water
+2952,870789,28.0,M,Outside/Open Areas
+2953,870789,30.0,M,Outside/Open Areas
+2954,871644,21.0,M,Outside/Open Areas
+2955,871646,32.0,M,Outside/Open Areas
+2956,871919,26.0,M,Vehicle/Towed Trailer
+2957,871967,61.0,F,Unknown
+2958,872848,19.0,M,Vehicle/Towed Trailer
+2959,872925,37.0,F,Outside/Open Areas
+2960,874819,30.0,F,Vehicle/Towed Trailer
+2961,875298,39.0,M,Vehicle/Towed Trailer
+2962,875856,45.0,M,Vehicle/Towed Trailer
+2963,875856,18.0,M,Vehicle/Towed Trailer
+2964,876089,41.0,M,Vehicle/Towed Trailer
+2965,876110,27.0,M,Vehicle/Towed Trailer
+2966,876151,25.0,M,Vehicle/Towed Trailer
+2967,893623,65.0,M,In Water
+2968,878823,,,Vehicle/Towed Trailer
+2969,879200,82.0,M,Vehicle/Towed Trailer
+2970,879214,64.0,M,Vehicle/Towed Trailer
+2971,879215,34.0,M,Vehicle/Towed Trailer
+2972,879903,27.0,M,In Water
+2973,893627,72.0,M,In Water
+2974,893627,73.0,M,In Water
+2975,895649,14.0,M,In Water
+2976,895656,33.0,M,In Water
+2977,896866,37.0,M,Other
+2978,897151,40.0,M,In Water
+2979,898307,30.0,M,Permanent Structure
+2980,898711,15.0,M,Heavy Equipment/Construction
+2981,901230,19.0,M,In Water
+2982,903180,,,In Water
+2983,904156,26.0,M,In Water
+2984,906088,67.0,M,In Water
+2985,908260,34.0,M,Outside/Open Areas
+2986,908264,24.0,F,In Water
+2987,911321,,M,Vehicle/Towed Trailer
+2988,911564,46.0,M,Vehicle/Towed Trailer
+2989,954667,,M,In Water
+2990,954669,61.0,M,In Water
+2991,954717,22.0,M,In Water
+2992,954719,47.0,M,In Water
+2993,954720,75.0,M,In Water
+2994,954723,58.0,M,In Water
+2995,954724,29.0,M,In Water
+2996,954724,32.0,F,In Water
+2997,954725,,F,In Water
+2998,954726,20.0,M,In Water
+2999,954727,25.0,M,In Water
+3000,954728,,F,In Water
+3001,954729,40.0,F,In Water
+3002,954730,29.0,M,In Water
+3003,954718,60.0,M,In Water
+3004,954729,45.0,M,In Water
+3005,912593,65.0,F,Under Tree
+3006,913052,43.0,M,Under Tree
+3007,913052,34.0,M,Under Tree
+3008,913529,1.0,F,Vehicle/Towed Trailer
+3009,914537,19.0,M,In Water
+3010,933530,34.0,F,Vehicle/Towed Trailer
+3011,865661,18.0,M,Vehicle/Towed Trailer
+3012,872072,24.0,M,Vehicle/Towed Trailer
+3013,877673,56.0,M,Vehicle/Towed Trailer
+3014,877673,56.0,F,Vehicle/Towed Trailer
+3015,946983,50.0,F,Camping
+3016,946983,15.0,M,Camping
+3017,946983,15.0,M,Camping
+3018,930321,36.0,M,Vehicle/Towed Trailer
+3019,938139,19.0,M,Outside/Open Areas
+3020,940657,84.0,M,Vehicle/Towed Trailer
+3021,941809,,,Unknown
+3022,944215,10.0,M,In Water
+3023,944215,,M,Outside/Open Areas
+3024,944215,66.0,F,Permanent Home
+3025,944327,7.0,F,In Water
+3026,946439,57.0,M,Vehicle/Towed Trailer
+3027,949715,84.0,M,Permanent Home
+3028,949715,90.0,F,Permanent Home
+3029,949715,53.0,M,Permanent Home
+3030,949715,84.0,M,Permanent Home
+3031,949715,71.0,M,Permanent Home
+3032,949715,67.0,F,Permanent Home
+3033,949715,63.0,M,Permanent Home
+3034,951833,,,Unknown
+3035,951834,,,Unknown
+3036,953511,70.0,M,Golfing
+3037,954408,,M,In Water
+3038,954685,67.0,M,In Water
+3039,954776,28.0,F,In Water
+3040,955782,37.0,F,In Water
+3041,956282,10.0,F,In Water
+3042,956282,45.0,M,In Water
+3043,956489,10.0,F,In Water
+3044,956490,17.0,M,In Water
+3045,956680,16.0,M,In Water
+3046,956680,32.0,M,In Water
+3047,956726,28.0,M,Boating
+3048,957371,31.0,M,Vehicle/Towed Trailer
+3049,957400,23.0,F,In Water
+3050,957400,26.0,M,In Water
+3051,957404,45.0,M,In Water
+3052,959420,14.0,F,In Water
+3053,961302,84.0,M,Unknown
+3054,961302,69.0,M,Unknown
+3055,961302,69.0,F,Unknown
+3056,961302,64.0,F,Unknown
+3057,961302,82.0,M,Unknown
+3058,961302,67.0,M,Unknown
+3059,961302,83.0,F,Unknown
+3060,961302,90.0,F,Unknown
+3061,961302,,M,Unknown
+3062,961302,,F,Unknown
+3063,961302,67.0,F,Unknown
+3064,961302,79.0,F,Unknown
+3065,961302,,M,Unknown
+3066,961302,,M,Unknown
+3067,961302,,F,Unknown
+3068,961302,,M,Unknown
+3069,961302,83.0,M,Unknown
+3070,961302,,F,Unknown
+3071,961302,60.0,F,Unknown
+3072,961302,69.0,M,Unknown
+3073,961302,68.0,F,Unknown
+3074,961302,80.0,F,Unknown
+3075,961302,68.0,M,Unknown
+3076,961302,,M,Unknown
+3077,961302,,M,Unknown
+3078,961302,,M,Unknown
+3079,961302,72.0,F,Unknown
+3080,961302,90.0,F,Unknown
+3081,961302,,M,Unknown
+3082,961302,,F,Unknown
+3083,961302,,M,Unknown
+3084,961302,,M,Unknown
+3085,961302,,M,Unknown
+3086,961302,69.0,M,Unknown
+3087,961302,57.0,F,Unknown
+3088,961302,,F,Unknown
+3089,961302,,M,Unknown
+3090,961302,97.0,F,Unknown
+3091,961302,82.0,F,Unknown
+3092,961302,,F,Unknown
+3093,961302,,M,Unknown
+3094,961302,49.0,F,Unknown
+3095,961302,72.0,F,Unknown
+3096,961302,77.0,M,Unknown
+3097,961302,62.0,M,Unknown
+3098,961302,79.0,M,Unknown
+3099,961302,,M,Unknown
+3100,961302,,F,Unknown
+3101,961302,74.0,M,Unknown
+3102,961302,,M,Unknown
+3103,961302,73.0,M,Unknown
+3104,961302,,M,Unknown
+3105,961302,63.0,M,Unknown
+3106,961302,,M,Unknown
+3107,961302,67.0,M,Unknown
+3108,961302,,M,Unknown
+3109,961302,72.0,F,Unknown
+3110,961302,,M,Unknown
+3111,961302,,F,Unknown
+3112,961302,,M,Unknown
+3113,961302,,M,Unknown
+3114,961302,,F,Unknown
+3115,961302,,M,Unknown
+3116,961302,,M,Unknown
+3117,961302,,M,Unknown
+3118,961302,,M,Unknown
+3119,961302,,M,Unknown
+3120,961302,78.0,M,Unknown
+3121,961302,79.0,M,Unknown
+3122,961302,,M,Unknown
+3123,961302,36.0,F,Unknown
+3124,961302,74.0,F,Unknown
+3125,961302,,,Unknown
+3126,961302,,,Unknown
+3127,961302,,,Unknown
+3128,961302,,F,Unknown
+3129,961302,74.0,F,Unknown
+3130,961302,79.0,F,Unknown
+3131,961302,64.0,M,Unknown
+3132,961302,,M,Unknown
+3133,961302,,F,Unknown
+3134,961302,,,Unknown
+3135,961302,,,Unknown
+3136,961302,,,Unknown
+3137,961302,,,Unknown
+3138,961302,,,Unknown
+3139,961302,69.0,F,Unknown
+3140,961453,51.0,M,Outside/Open Areas
+3141,961837,,,Unknown
+3142,961837,,,Unknown
+3143,961837,,,Unknown
+3144,961837,,,Unknown
+3145,931716,,M,Outside/Open Areas
+3146,932197,35.0,M,Outside/Open Areas
+3147,932267,67.0,F,Outside/Open Areas
+3148,932773,35.0,M,Vehicle/Towed Trailer
+3149,935201,,,Outside/Open Areas
+3150,935211,58.0,M,Outside/Open Areas
+3151,935213,57.0,M,Outside/Open Areas
+3152,935844,,M,Other
+3153,936119,18.0,M,Vehicle/Towed Trailer
+3154,936247,77.0,M,Vehicle/Towed Trailer
+3155,936331,26.0,F,In Water
+3156,936389,27.0,M,In Water
+3157,936389,,M,In Water
+3158,937870,59.0,M,Outside/Open Areas
+3159,940166,29.0,F,Outside/Open Areas
+3160,940166,26.0,M,Outside/Open Areas
+3161,940166,26.0,F,Outside/Open Areas
+3162,940166,23.0,M,Outside/Open Areas
+3163,940634,56.0,M,Outside/Open Areas
+3164,940635,31.0,M,Outside/Open Areas
+3165,940636,33.0,M,Outside/Open Areas
+3166,941524,,M,Vehicle/Towed Trailer
+3167,941525,,M,Vehicle/Towed Trailer
+3168,941525,,M,Vehicle/Towed Trailer
+3169,941525,20.0,M,Vehicle/Towed Trailer
+3170,941532,45.0,M,Vehicle/Towed Trailer
+3171,941532,46.0,F,Vehicle/Towed Trailer
+3172,941532,54.0,M,Vehicle/Towed Trailer
+3173,941532,49.0,M,Vehicle/Towed Trailer
+3174,941532,47.0,M,Vehicle/Towed Trailer
+3175,941532,34.0,F,Vehicle/Towed Trailer
+3176,941934,52.0,M,Outside/Open Areas
+3177,941934,40.0,M,Outside/Open Areas
+3178,941934,49.0,M,Outside/Open Areas
+3179,941935,41.0,M,Outside/Open Areas
+3180,942350,,,Unknown
+3181,942353,,,Unknown
+3182,942414,,,Unknown
+3183,942419,82.0,M,Permanent Home
+3184,942568,,,Vehicle/Towed Trailer
+3185,942629,73.0,M,Outside/Open Areas
+3186,942629,23.0,M,Permanent Home
+3187,942630,71.0,M,Unknown
+3188,942630,63.0,M,Unknown
+3189,942630,63.0,M,Unknown
+3190,942630,77.0,M,Unknown
+3191,942630,45.0,M,Unknown
+3192,942630,84.0,M,Unknown
+3193,942630,54.0,M,Unknown
+3194,942630,70.0,M,Unknown
+3195,942630,41.0,M,Permanent Home
+3196,942630,28.0,M,Permanent Home
+3197,942633,,,Unknown
+3198,942635,,,Unknown
+3199,942635,,,Unknown
+3200,942638,,,Unknown
+3201,942638,,,Unknown
+3202,942652,,,Unknown
+3203,942652,,,Unknown
+3204,942655,,,Unknown
+3205,942656,,,Unknown
+3206,942657,,,Unknown
+3207,942665,,,Unknown
+3208,942693,56.0,F,Vehicle/Towed Trailer
+3209,942740,27.0,M,Vehicle/Towed Trailer
+3210,943284,77.0,M,In Water
+3211,943288,68.0,M,Permanent Home
+3212,943288,44.0,F,Permanent Home
+3213,943295,74.0,F,Outside/Open Areas
+3214,943295,50.0,M,Outside/Open Areas
+3215,943342,65.0,M,Mobile/Trailer Home
+3216,943495,63.0,M,Vehicle/Towed Trailer
+3217,943528,,F,Permanent Home
+3218,943528,,F,Permanent Home
+3219,943629,64.0,M,Permanent Home
+3220,944360,35.0,F,Outside/Open Areas
+3221,944404,,,Vehicle/Towed Trailer
+3222,944446,51.0,F,Vehicle/Towed Trailer
+3223,944448,42.0,F,Vehicle/Towed Trailer
+3224,944867,39.0,M,Vehicle/Towed Trailer
+3225,944869,52.0,M,Unknown
+3226,944908,65.0,M,In Water
+3227,945462,48.0,M,Outside/Open Areas
+3228,945463,30.0,M,Unknown
+3229,945484,,F,Outside/Open Areas
+3230,945485,,F,Outside/Open Areas
+3231,961837,,,Unknown
+3232,961837,,,Unknown
+3233,961837,70.0,M,Unknown
+3234,961837,74.0,F,Unknown
+3235,961837,42.0,M,Unknown
+3236,961837,47.0,M,Unknown
+3237,961837,68.0,M,Unknown
+3238,961837,67.0,M,Unknown
+3239,961837,73.0,F,Unknown
+3240,961837,,M,Unknown
+3241,961837,,,Unknown
+3242,961837,37.0,M,In Water
+3243,961837,51.0,M,In Water
+3244,961837,38.0,M,Outside/Open Areas
+3245,964771,72.0,M,Unknown
+3246,965283,63.0,M,In Water
+3247,965289,57.0,M,In Water
+3248,965517,15.0,F,In Water
+3249,965817,,M,Unknown
+3250,965817,,,Unknown
+3251,965817,,,Unknown
+3252,965818,64.0,M,Other
+3253,965819,44.0,M,In Water
+3254,965820,,F,Unknown
+3255,965820,,F,Unknown
+3256,965929,10.0,F,In Water
+3257,965965,48.0,F,In Water
+3258,966943,55.0,M,Outside/Open Areas
+3259,966945,68.0,M,Outside/Open Areas
+3260,966946,,F,Outside/Open Areas
+3261,967100,79.0,M,Mobile/Trailer Home
+3262,967605,47.0,M,In Water
+3263,967792,,M,Vehicle/Towed Trailer
+3264,967948,19.0,M,In Water
+3265,967948,47.0,M,In Water
+3266,968846,62.0,M,In Water
+3267,968866,,,Outside/Open Areas
+3268,968866,,,Outside/Open Areas
+3269,968961,39.0,F,Outside/Open Areas
+3270,969166,73.0,F,Unknown
+3271,969166,71.0,F,Unknown
+3272,969213,23.0,F,In Water
+3273,969321,,F,Vehicle/Towed Trailer
+3274,969741,,M,Vehicle/Towed Trailer
+3275,970023,59.0,F,Unknown
+3276,970023,,M,Unknown
+3277,970236,49.0,F,Vehicle/Towed Trailer
+3278,970299,,M,Outside/Open Areas
+3279,970319,32.0,F,Outside/Open Areas
+3280,970319,42.0,M,Outside/Open Areas
+3281,970319,29.0,M,Outside/Open Areas
+3282,970319,34.0,F,Outside/Open Areas
+3283,970319,,M,Outside/Open Areas
+3284,970319,36.0,M,Outside/Open Areas
+3285,970319,28.0,M,Outside/Open Areas
+3286,970319,,M,Outside/Open Areas
+3287,970319,,M,Outside/Open Areas
+3288,970319,19.0,M,Outside/Open Areas
+3289,970319,42.0,M,Outside/Open Areas
+3290,970320,35.0,F,Outside/Open Areas
+3291,970320,,M,Outside/Open Areas
+3292,970320,,M,Outside/Open Areas
+3293,970467,24.0,M,Mobile/Trailer Home
+3294,970467,3.0,M,Mobile/Trailer Home
+3295,970469,30.0,M,Outside/Open Areas
+3296,970487,,M,Outside/Open Areas
+3297,970487,20.0,M,Outside/Open Areas
+3298,970488,40.0,M,Outside/Open Areas
+3299,970490,47.0,M,Outside/Open Areas
+3300,970491,45.0,M,Outside/Open Areas
+3301,970495,,M,Outside/Open Areas
+3302,970506,,M,Outside/Open Areas
+3303,970506,,M,Outside/Open Areas
+3304,970506,29.0,F,Outside/Open Areas
+3305,970980,71.0,M,Outside/Open Areas
+3306,945776,32.0,M,In Water
+3307,945800,,,Unknown
+3308,945800,,,Unknown
+3309,945830,67.0,M,Unknown
+3310,945840,,M,Outside/Open Areas
+3311,946738,44.0,M,Mobile/Trailer Home
+3312,929247,55.0,M,Vehicle/Towed Trailer
+3313,933421,50.0,M,In Water
+3314,934379,3.0,F,Permanent Home
+3315,936630,60.0,F,Outside/Open Areas
+3316,936688,57.0,M,Outside/Open Areas
+3317,936689,18.0,F,Vehicle/Towed Trailer
+3318,937230,67.0,M,Outside/Open Areas
+3319,937282,42.0,F,Under Tree
+3320,937288,59.0,M,Vehicle/Towed Trailer
+3321,937867,1.0,F,Vehicle/Towed Trailer
+3322,937967,53.0,M,Vehicle/Towed Trailer
+3323,938002,14.0,M,Permanent Home
+3324,938288,50.0,F,Vehicle/Towed Trailer
+3325,938895,,,Other
+3326,938920,57.0,M,Vehicle/Towed Trailer
+3327,938960,18.0,M,Vehicle/Towed Trailer
+3328,939420,54.0,F,Other
+3329,940805,12.0,F,Vehicle/Towed Trailer
+3330,940805,49.0,F,Vehicle/Towed Trailer
+3331,943057,21.0,M,In Water
+3332,943057,55.0,M,In Water
+3333,943564,17.0,F,Other
+3334,944863,42.0,M,In Water
+3335,946768,48.0,M,Mobile/Trailer Home
+3336,947692,79.0,M,Vehicle/Towed Trailer
+3337,949608,37.0,F,Vehicle/Towed Trailer
+3338,953597,85.0,M,Outside/Open Areas
+3339,954336,2.0,,Permanent Home
+3340,954642,28.0,M,Mobile/Trailer Home
+3341,954775,48.0,M,In Water
+3342,954775,32.0,F,In Water
+3343,955351,26.0,M,Unknown
+3344,955368,23.0,M,Vehicle/Towed Trailer
+3345,956174,70.0,M,Vehicle/Towed Trailer
+3346,956372,55.0,M,In Water
+3347,956863,40.0,F,In Water
+3348,948503,80.0,F,Permanent Home
+3349,950578,50.0,M,In Water
+3350,952438,1.0,M,Vehicle/Towed Trailer
+3351,952438,38.0,F,Vehicle/Towed Trailer
+3352,952438,34.0,F,Vehicle/Towed Trailer
+3353,953079,,M,In Water
+3354,953085,37.0,M,In Water
+3355,955569,,M,In Water
+3356,956695,22.0,M,In Water
+3357,957328,58.0,M,In Water
+3358,957389,7.0,M,In Water
+3359,957432,20.0,M,In Water
+3360,957582,49.0,F,Mobile/Trailer Home
+3361,956687,8.0,M,In Water
+3362,960716,61.0,M,Vehicle/Towed Trailer
+3363,961234,14.0,M,In Water
+3364,961426,46.0,M,Vehicle/Towed Trailer
+3365,961778,25.0,M,In Water
+3366,962402,4.0,M,In Water
+3367,962404,,M,In Water
+3368,962404,,M,In Water
+3369,962752,,M,In Water
+3370,962770,55.0,F,Permanent Home
+3371,963157,22.0,M,In Water
+3372,963156,17.0,M,In Water
+3373,963303,15.0,F,In Water
+3374,959086,34.0,M,Under Tree
+3375,960751,,M,In Water
+3376,957686,49.0,M,Other
+3377,964010,18.0,M,In Water
+3378,937995,31.0,M,Outside/Open Areas
+3379,939286,28.0,M,Outside/Open Areas
+3380,941126,65.0,M,Outside/Open Areas
+3381,941340,56.0,M,Outside/Open Areas
+3382,943199,,M,Long Span Roof
+3383,943624,,,Unknown
+3384,943790,,,Unknown
+3385,943791,,,Unknown
+3386,943791,,,Unknown
+3387,943791,,,Unknown
+3388,943791,,,Unknown
+3389,943793,,,Unknown
+3390,943797,,,Unknown
+3391,943800,,,Unknown
+3392,943800,,,Unknown
+3393,943819,,,Unknown
+3394,943821,,,Unknown
+3395,943821,,,Unknown
+3396,943821,,,Unknown
+3397,943821,,,Permanent Home
+3398,943821,,,Permanent Home
+3399,943821,,,Permanent Home
+3400,944573,,,Unknown
+3401,945961,,,Unknown
+3402,945966,11.0,M,Permanent Home
+3403,945966,58.0,M,Permanent Home
+3404,945966,77.0,F,Permanent Home
+3405,945983,61.0,M,Unknown
+3406,945983,77.0,F,Unknown
+3407,945983,68.0,F,Unknown
+3408,945985,74.0,M,Unknown
+3409,945985,88.0,F,Unknown
+3410,945985,50.0,M,Unknown
+3411,945985,89.0,F,Unknown
+3412,945985,72.0,M,Unknown
+3413,945985,51.0,M,Unknown
+3414,945986,76.0,M,Mobile/Trailer Home
+3415,945986,55.0,M,Outside/Open Areas
+3416,945986,60.0,M,Outside/Open Areas
+3417,945986,56.0,M,Outside/Open Areas
+3418,945986,77.0,F,Outside/Open Areas
+3419,945986,61.0,M,Outside/Open Areas
+3420,945986,86.0,M,Outside/Open Areas
+3421,945986,86.0,F,Permanent Home
+3422,945986,79.0,F,Permanent Home
+3423,945986,100.0,F,Permanent Home
+3424,945986,48.0,M,Permanent Home
+3425,945986,43.0,F,Permanent Home
+3426,945986,52.0,M,Permanent Home
+3427,945986,56.0,M,Permanent Home
+3428,945986,72.0,M,Permanent Home
+3429,945986,47.0,F,Permanent Home
+3430,945986,46.0,F,Permanent Home
+3431,945986,7.0,F,Permanent Home
+3432,945986,84.0,F,Permanent Home
+3433,945986,64.0,F,Permanent Home
+3434,945986,75.0,M,Permanent Home
+3435,945986,61.0,M,Permanent Home
+3436,945986,69.0,F,Permanent Home
+3437,945986,60.0,M,Permanent Home
+3438,945986,81.0,M,Permanent Home
+3439,945986,88.0,F,Permanent Home
+3440,945986,8.0,F,Permanent Home
+3441,945986,71.0,M,Permanent Home
+3442,945986,97.0,F,Permanent Home
+3443,945986,72.0,M,Permanent Home
+3444,945986,86.0,M,Permanent Home
+3445,945986,87.0,F,Permanent Home
+3446,945986,64.0,M,Permanent Home
+3447,945986,23.0,M,Permanent Home
+3448,945986,65.0,M,Permanent Home
+3449,945986,47.0,M,Vehicle/Towed Trailer
+3450,945993,,,Unknown
+3451,945993,,,Unknown
+3452,945993,,,Unknown
+3453,946006,,,Unknown
+3454,936658,32.0,M,In Water
+3455,938148,,,Church
+3456,940257,,M,Under Tree
+3457,940481,31.0,F,Vehicle/Towed Trailer
+3458,940484,40.0,M,Outside/Open Areas
+3459,941485,21.0,M,Boating
+3460,941485,21.0,M,Boating
+3461,941492,46.0,F,Mobile/Trailer Home
+3462,941526,42.0,M,In Water
+3463,941526,49.0,M,In Water
+3464,941611,1.0,M,Under Tree
+3465,941936,37.0,M,Outside/Open Areas
+3466,942229,35.0,M,Outside/Open Areas
+3467,943055,54.0,M,In Water
+3468,943056,42.0,M,In Water
+3469,945162,57.0,M,Other
+3470,949942,62.0,F,Mobile/Trailer Home
+3471,950931,30.0,F,Vehicle/Towed Trailer
+3472,946870,71.0,M,Unknown
+3473,946870,71.0,F,Unknown
+3474,946870,74.0,M,Mobile/Trailer Home
+3475,946870,69.0,F,Mobile/Trailer Home
+3476,946870,38.0,F,Mobile/Trailer Home
+3477,946870,59.0,F,Mobile/Trailer Home
+3478,949499,71.0,M,In Water
+3479,949500,62.0,M,In Water
+3480,951940,65.0,M,Vehicle/Towed Trailer
+3481,951956,64.0,M,Outside/Open Areas
+3482,951956,46.0,F,Outside/Open Areas
+3483,951956,,M,Outside/Open Areas
+3484,951956,70.0,M,Vehicle/Towed Trailer
+3485,951956,65.0,M,Outside/Open Areas
+3486,952206,32.0,M,Vehicle/Towed Trailer
+3487,951891,46.0,F,Outside/Open Areas
+3488,951050,61.0,F,In Water
+3489,951836,,,Unknown
+3490,951836,70.0,M,Permanent Home
+3491,954745,,M,In Water
+3492,954747,56.0,M,In Water
+3493,954748,54.0,M,In Water
+3494,954749,,M,Unknown
+3495,954750,58.0,F,In Water
+3496,954751,42.0,M,In Water
+3497,954752,41.0,M,In Water
+3498,954753,65.0,M,In Water
+3499,954755,48.0,F,In Water
+3500,954756,,M,In Water
+3501,957428,96.0,F,Vehicle/Towed Trailer
+3502,937996,57.0,M,Outside/Open Areas
+3503,943810,91.0,F,Mobile/Trailer Home
+3504,945983,51.0,M,Unknown
+3505,945986,51.0,M,Outside/Open Areas
+3506,945986,62.0,M,Permanent Home
+3507,945986,49.0,M,Permanent Home
+3508,945986,87.0,F,Permanent Home
+3509,945984,,,Unknown
+3510,937844,66.0,M,Outside/Open Areas
+3511,938856,,M,Outside/Open Areas
+3512,939586,,,Vehicle/Towed Trailer
+3513,944502,,,Unknown
+3514,944502,,,Unknown
+3515,945339,67.0,F,Outside/Open Areas
+3516,945569,79.0,M,Permanent Home
+3517,945569,73.0,F,Permanent Home
+3518,945569,72.0,M,Permanent Home
+3519,952642,47.0,F,Vehicle/Towed Trailer
+3520,963050,36.0,F,Outside/Open Areas
+3521,963053,36.0,M,Outside/Open Areas
+3522,932613,7.0,F,In Water
+3523,932613,4.0,M,In Water
+3524,932613,40.0,M,In Water
+3525,932614,,F,In Water
+3526,932615,,M,In Water
+3527,932626,12.0,M,In Water
+3528,946829,35.0,M,Outside/Open Areas
