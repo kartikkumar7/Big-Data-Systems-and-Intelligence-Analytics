@@ -11,22 +11,22 @@ from google.oauth2.credentials import Credentials
 import datetime as dt
 from pandas.io.parsers import read_csv
 
-key_GCS='' # data path to your key of GCS (.json file) 
-project_id='' # your project id
-bucket_id='' # your bucket
+KEY_GCS='' # data path to your key of GCS (.json file) 
+PROJECT_ID='' # your project id
+BUCKET_ID='' # your bucket
 
 # Python function to check successful connection with GCS
 def connect_GCS():
-    os.environ["GOOGLE_APPLICATION_CREDENTIALS"]=key_GCS
-    storage_client = storage.Client(project=project_id)
-    bucket = storage_client.get_bucket(bucket_id)
+    os.environ["GOOGLE_APPLICATION_CREDENTIALS"]=KEY_GCS
+    storage_client = storage.Client(project=PROJECT_ID)
+    bucket = storage_client.get_bucket(BUCKET_ID)
     print('Successful connection')
 
 # Python function to read details CSV
 def GCS_df_det():
-    os.environ["GOOGLE_APPLICATION_CREDENTIALS"]=key_GCS 
-    storage_client = storage.Client(project=project_id)
-    bucket = storage_client.get_bucket(bucket_id)
+    os.environ["GOOGLE_APPLICATION_CREDENTIALS"]=KEY_GCS 
+    storage_client = storage.Client(project=PROJECT_ID)
+    bucket = storage_client.get_bucket(BUCKET_ID)
 
     blob = bucket.blob('/INFO_7245/master_df_details.csv')
     df1 = pd.read_csv("gs://storm_event/INFO_7245/master_df_details.csv")
@@ -36,10 +36,10 @@ def GCS_df_det():
 
 # Python function to read fatalities CSV
 def GCS_df_fat():
-    os.environ["GOOGLE_APPLICATION_CREDENTIALS"]=key_GCS
+    os.environ["GOOGLE_APPLICATION_CREDENTIALS"]=KEY_GCS
 
-    storage_client = storage.Client(project=project_id)
-    bucket = storage_client.get_bucket(bucket_id)
+    storage_client = storage.Client(project=PROJECT_ID)
+    bucket = storage_client.get_bucket(BUCKET_ID)
 
     blob = bucket.blob('/INFO_7245/master_df_fatalities.csv')
     df2 = pd.read_csv("gs://storm_event/INFO_7245/master_df_fatalities.csv")
@@ -105,9 +105,9 @@ def merge_csv():
 # Python function to upload merged CSV to GCS
 def csv_to_GCS():
     df_final= read_csv('/mnt/c/DAGS/master_df_merged.csv')
-    os.environ["GOOGLE_APPLICATION_CREDENTIALS"]=key_GCS
-    storage_client = storage.Client(project=project_id)
-    bucket = storage_client.get_bucket(bucket_id)
+    os.environ["GOOGLE_APPLICATION_CREDENTIALS"]=KEY_GCS
+    storage_client = storage.Client(project=PROJECT_ID)
+    bucket = storage_client.get_bucket(BUCKET_ID)
     df_final.to_csv('gs://storm_event/INFO_7245/master_df_merged.csv')
     print('Successful upload')
 
